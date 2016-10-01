@@ -5,6 +5,7 @@ using System.Runtime.InteropServices;
 
 public class Enemy : MonoBehaviour
 {
+    public CharacterStats MyStats = new CharacterStats();
     public float SpeedMultiplier;
     public CircleCollider2D AttackTrigger;
     public EEnemyState MyState;
@@ -14,7 +15,9 @@ public class Enemy : MonoBehaviour
     private Vector3 _movementDirection;
     private GameObject _target;
     private float _attackTimer;
-    private float _attackDelay;
+    public float AttackDelay;
+
+    private float _distanceToNext;
 	// Use this for initialization
 	void Start ()
 	{
@@ -28,7 +31,6 @@ public class Enemy : MonoBehaviour
     {
 	    GoToPosition();
 	    _attackTimer -= Time.deltaTime;
-	    _attackTimer = Mathf.Clamp(_attackTimer, 0.0f, float.MaxValue);
     }
 
     private void Wander()
@@ -46,6 +48,7 @@ public class Enemy : MonoBehaviour
         }
         else
         {
+            _distanceToNext = float.MaxValue;
             _myAgent.TargetObject = _target.transform;
         }
         _myAgent.CalculatePath();
@@ -72,13 +75,22 @@ public class Enemy : MonoBehaviour
                 break;
             case EEnemyState.Fight:
                 if (Vector3.Distance(_target.transform.localPosition, gameObject.transform.localPosition) < 1f)
-                    Attack();
+                {
+                    if (_attackTimer <= 0)
+                        Attack();
+                    else
+                        return;
+                }
                 else
                 {
                     if (_currentElement != null)
                     {
+                        _distanceToNext = Vector3.Distance(transform.localPosition, _currentElement.transform.localPosition);
                         transform.localPosition += _movementDirection * Time.deltaTime * SpeedMultiplier;
-                        if (Vector3.Distance(transform.localPosition, _currentElement.transform.localPosition) < 0.1f)
+                        float currentDistance = Vector3.Distance(transform.localPosition, _currentElement.transform.localPosition);
+                        if (currentDistance > _distanceToNext)
+                            Wander();
+                        if (_distanceToNext < 0.1f)
                         {
                             GetNextElement();
                         }
@@ -121,10 +133,10 @@ public class Enemy : MonoBehaviour
         }
         foreach (RaycastHit2D hit in hits)
         {
-            if (hit.transform.gameObject.layer == LayerMask.NameToLayer("Player"))
-                hit.transform.gameObject.GetComponent<PlayerController>().Hit();
+            if (hit.transform.gameObject.tag == "Player")
+                hit.transform.gameObject.GetComponent<PlayerController>().Hit(this);
         }
-        _attackTimer = _attackDelay;
+        _attackTimer = AttackDelay;
         Wander();
     }
 
@@ -142,9 +154,21 @@ public class Enemy : MonoBehaviour
         AttackTrigger.offset = _movementDirection * 0.4f;
     }
 
-    public void Hit()
+    public void Hit(PlayerController player)
     {
-        Debug.Log("OH NO!!! IM DYING!!!!!");
+        MyStats.HP -= player.GetAttackPower();
+        UIController.Me.UseDamage(gameObject.transform.position, player.GetAttackPower().ToString());
+        if (MyStats.HP <= 0)
+        {
+            player.DecreaseExp(MyStats.EXP);
+            //todo pooling
+            gameObject.SetActive(false);
+        }
+    }
+
+    public int GetAttackPower()
+    {
+        return MyStats.Strenght;
     }
 
     public void OnTriggerEnter2D(Collider2D col)
@@ -156,6 +180,7 @@ public class Enemy : MonoBehaviour
             Wander();
         }
     }
+    
 }
 
 public enum EEnemyState

@@ -1,6 +1,7 @@
 ﻿using System;
 using UnityEngine;
 using System.Collections.Generic;
+using UnityEditor;
 
 public class GameController : Singleton<GameController>
 {
@@ -25,6 +26,26 @@ public class GameController : Singleton<GameController>
                 PlayersCount = EPlayersCount.One;
                 break;
         }
+    }
+
+    public void CheckPlayersAlive()
+    {
+        bool alive = false;
+        foreach (PlayerController player in Players)
+        {
+            if (player.MyClass.HP > 0) alive = true;
+        }
+        if (!alive)
+        {
+            Debug.LogError("All Players Died!!!");
+            //todo handle game over
+        }
+    }
+
+    public void OnStageOver()
+    {
+        Debug.LogError("Stage is Over!!!");
+        //todo handle stage win
     }
 }
 

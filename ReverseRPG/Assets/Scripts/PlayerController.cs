@@ -36,10 +36,8 @@ public class PlayerController : MonoBehaviour
             }
             Attack();
 	    }
-	    else
-	    {
-	        //AttackTrigger.offset = Vector2.zero;
-	    }
+	    _attackTimer -= Time.deltaTime;
+	    _attackTimer = Mathf.Clamp(_attackTimer, 0.0f, float.MaxValue);
 	}
 
     public void Hit()
@@ -49,11 +47,13 @@ public class PlayerController : MonoBehaviour
 
     private void Attack()
     {
+        if (_attackTimer > 0.0f) return;
         RaycastHit2D[] hits = Physics2D.CircleCastAll(gameObject.transform.localPosition, 0.3f, _attackDirection);
         foreach (RaycastHit2D hit in hits)
         {
             if(hit.transform.gameObject.layer == LayerMask.NameToLayer("Enemy"))
                 hit.transform.gameObject.GetComponent<Enemy>().Hit();
         }
+        _attackTimer = _attackDelay;
     }
 }

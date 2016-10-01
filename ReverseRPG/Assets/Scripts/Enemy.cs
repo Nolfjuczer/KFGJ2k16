@@ -13,6 +13,8 @@ public class Enemy : MonoBehaviour
     private AStar.GridElement _currentElement;
     private Vector3 _movementDirection;
     private GameObject _target;
+    private float _attackTimer;
+    private float _attackDelay;
 	// Use this for initialization
 	void Start ()
 	{
@@ -25,7 +27,9 @@ public class Enemy : MonoBehaviour
 	void Update ()
     {
 	    GoToPosition();
-	}
+	    _attackTimer -= Time.deltaTime;
+	    _attackTimer = Mathf.Clamp(_attackTimer, 0.0f, float.MaxValue);
+    }
 
     private void Wander()
     {
@@ -104,6 +108,7 @@ public class Enemy : MonoBehaviour
 
     private void Attack()
     {
+        if (_attackTimer > 0.0f) return;
         Vector3 diffrence = GameController.Me.Players[0].transform.localPosition - transform.localPosition;
         RaycastHit2D[] hits;
         if (Mathf.Abs(diffrence.x) > Mathf.Abs(diffrence.y))
@@ -119,6 +124,7 @@ public class Enemy : MonoBehaviour
             if (hit.transform.gameObject.layer == LayerMask.NameToLayer("Player"))
                 hit.transform.gameObject.GetComponent<PlayerController>().Hit();
         }
+        _attackTimer = _attackDelay;
         Wander();
     }
 

@@ -75,6 +75,18 @@ public class InputController : Singleton<InputController>
         return false;
     }
 
+    public bool GetS(EGamePad pad)
+    {
+        switch (pad)
+        {
+            case EGamePad.Pad1:
+                return Input.GetButton("S1");
+            case EGamePad.Pad2:
+                return Input.GetButton("S2");
+        }
+        return false;
+    }
+
     public bool GetLeftTrigger(EGamePad pad)
     {
         switch (pad)

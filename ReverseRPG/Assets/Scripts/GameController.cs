@@ -16,12 +16,16 @@ public class GameController : Singleton<GameController>
     public EClasses Player1Class;
     public EClasses Player2Class;
 
+    public PlayerController[] PossibleCharacters = new PlayerController[4];
+
+    private bool _firstTime;
+
     public override void Awake()
     {
         base.Awake();
         GameState = EGameState.START;
         MainGrid = FindObjectOfType<AStar.Grid>();
-        Players = FindObjectsOfType<PlayerController>();
+        _firstTime = true;
     }
 
     public void ChangeState(EGameState state)
@@ -51,6 +55,45 @@ public class GameController : Singleton<GameController>
                 }
                 break;
             case EGameState.STAGE:
+                if (_firstTime)
+                {
+                    switch (PlayersCount)
+                    {
+                         case EPlayersCount.One:
+                            Players = new PlayerController[1];
+                            switch (Player1Class)
+                            {
+                                case EClasses.Knight:
+                                    Players[0] = PossibleCharacters[1];
+                                    break;
+                                case EClasses.Mage:
+                                    Players[0] = PossibleCharacters[0];
+                                    break;
+                            }
+                            break;
+                        case EPlayersCount.Two:
+                            Players = new PlayerController[2];
+                            switch (Player1Class)
+                            {
+                                case EClasses.Knight:
+                                    Players[0] = PossibleCharacters[1];
+                                    break;
+                                case EClasses.Mage:
+                                    Players[0] = PossibleCharacters[0];
+                                    break;
+                            }
+                            switch (Player2Class)
+                            {
+                                case EClasses.Knight:
+                                    Players[0] = PossibleCharacters[3];
+                                    break;
+                                case EClasses.Mage:
+                                    Players[0] = PossibleCharacters[2];
+                                    break;
+                            }
+                            break;
+                    }
+                }
                 break;
         }
     }

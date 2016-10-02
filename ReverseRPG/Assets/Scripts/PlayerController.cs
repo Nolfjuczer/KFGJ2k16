@@ -221,7 +221,7 @@ public class PlayerController : MonoBehaviour
 
     public void AffectLevelDecrease()
     {
-        //todo removing spells stats etc
+        MyClass.PossibleSpells -= 1;
     }
 }
 

@@ -14,6 +14,8 @@ public class CharacterClass : CharacterStats
     public List<Weapon> Weapons = new List<Weapon>();
     [SerializeField]
     public List<Armor> Armors = new List<Armor>();
+
+    public int PossibleSpells = 7;
 }
 [Serializable]
 public class Weapon

@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: ef90e2f749b921c45a1da8116c99018f
-timeCreated: 1475344382
+guid: 417eda127dc2dbb41a99c75a8e3cdaa8
+timeCreated: 1475370126
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -100,82 +100,82 @@ TextureImporter:
     21300186: M1_R_W7
     21300188: M1_R_W8
     21300190: M1_R_W9
-    21300192: FULL+spear_96
-    21300194: FULL+spear_97
-    21300196: FULL+spear_98
-    21300198: FULL+spear_99
-    21300200: FULL+spear_100
-    21300202: FULL+spear_101
-    21300204: FULL+spear_102
-    21300206: FULL+spear_103
-    21300208: FULL+spear_104
-    21300210: FULL+spear_105
-    21300212: FULL+spear_106
-    21300214: FULL+spear_107
-    21300216: FULL+spear_108
-    21300218: FULL+spear_109
-    21300220: FULL+spear_110
-    21300222: FULL+spear_111
-    21300224: FULL+spear_112
-    21300226: FULL+spear_113
-    21300228: FULL+spear_114
-    21300230: FULL+spear_115
-    21300232: FULL+spear_116
-    21300234: FULL+spear_117
-    21300236: FULL+spear_118
-    21300238: FULL+spear_119
-    21300240: FULL+spear_120
-    21300242: FULL+spear_121
-    21300244: FULL+spear_122
-    21300246: FULL+spear_123
-    21300248: FULL+spear_124
-    21300250: FULL+spear_125
-    21300252: FULL+spear_126
-    21300254: FULL+spear_127
-    21300256: FULL+spear_128
-    21300258: FULL+spear_129
-    21300260: FULL+spear_130
-    21300262: FULL+spear_131
-    21300264: FULL+spear_132
-    21300266: FULL+spear_133
-    21300268: FULL+spear_134
-    21300270: FULL+spear_135
-    21300272: FULL+spear_136
-    21300274: FULL+spear_137
-    21300276: FULL+spear_138
-    21300278: FULL+spear_139
-    21300280: FULL+spear_140
-    21300282: FULL+spear_141
-    21300284: FULL+spear_142
-    21300286: FULL+spear_143
-    21300288: FULL+spear_144
-    21300290: FULL+spear_145
-    21300292: FULL+spear_146
-    21300294: FULL+spear_147
-    21300296: FULL+spear_148
-    21300298: FULL+spear_149
-    21300300: FULL+spear_150
-    21300302: FULL+spear_151
-    21300304: FULL+spear_152
-    21300306: FULL+spear_153
-    21300308: FULL+spear_154
-    21300310: FULL+spear_155
-    21300312: FULL+spear_156
-    21300314: FULL+spear_157
-    21300316: FULL+spear_158
-    21300318: FULL+spear_159
-    21300320: FULL+spear_160
-    21300322: FULL+spear_161
-    21300324: FULL+spear_162
-    21300326: FULL+spear_163
-    21300328: FULL+spear_164
-    21300330: FULL+spear_165
-    21300332: FULL+spear_166
-    21300334: FULL+spear_167
-    21300336: FULL+spear_168
-    21300338: FULL+spear_169
-    21300340: FULL+spear_170
-    21300342: FULL+spear_171
+    21300192: M1_96
+    21300194: M1_97
+    21300196: M1_98
+    21300198: M1_99
+    21300200: M1_100
+    21300202: M1_101
+    21300204: M1_102
+    21300206: M1_103
+    21300208: M1_104
+    21300210: M1_105
+    21300212: M1_106
+    21300214: M1_107
+    21300216: M1_108
+    21300218: M1_109
+    21300220: M1_110
+    21300222: M1_111
+    21300224: M1_112
+    21300226: M1_113
+    21300228: M1_114
+    21300230: M1_115
+    21300232: M1_116
+    21300234: M1_117
+    21300236: M1_118
+    21300238: M1_119
+    21300240: M1_120
+    21300242: M1_121
+    21300244: M1_122
+    21300246: M1_123
+    21300248: M1_124
+    21300250: M1_125
+    21300252: M1_126
+    21300254: M1_127
+    21300256: M1_128
+    21300258: M1_129
+    21300260: M1_130
+    21300262: M1_131
+    21300264: M1_132
+    21300266: M1_133
+    21300268: M1_134
+    21300270: M1_135
+    21300272: M1_136
+    21300274: M1_137
+    21300276: M1_138
+    21300278: M1_139
+    21300280: M1_140
+    21300282: M1_141
+    21300284: M1_142
+    21300286: M1_143
+    21300288: M1_144
+    21300290: M1_145
+    21300292: M1_146
+    21300294: M1_147
+    21300296: M1_148
+    21300298: M1_149
+    21300300: M1_150
+    21300302: M1_151
+    21300304: M1_152
+    21300306: M1_153
+    21300308: M1_154
+    21300310: M1_155
+    21300312: M1_156
+    21300314: M1_157
+    21300316: M1_158
+    21300318: M1_159
+    21300320: M1_160
+    21300322: M1_161
+    21300324: M1_162
+    21300326: M1_163
+    21300328: M1_164
+    21300330: M1_165
+    21300332: M1_166
+    21300334: M1_167
+    21300336: M1_168
+    21300338: M1_169
+    21300340: M1_170
+    21300342: M1_171
     21300344: M1_D1
     21300346: M1_D2
     21300348: M1_D3
@@ -312,7 +312,7 @@ TextureImporter:
     - name: M1_B_S5
       rect:
         serializedVersion: 2
-        x: 256
+        x: 258
         y: 1280
         width: 64
         height: 64
@@ -320,14 +320,14 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 13, y: 19}
-        - {x: -11, y: 19}
-        - {x: -27, y: 9}
-        - {x: -27, y: -27}
-        - {x: -25, y: -32}
-        - {x: 21, y: -32}
-        - {x: 27, y: -19}
-        - {x: 27, y: 4}
+      - - {x: -27, y: 19}
+        - {x: -29, y: 14}
+        - {x: -29, y: -30}
+        - {x: -27, y: -32}
+        - {x: 19, y: -32}
+        - {x: 25, y: -19}
+        - {x: 25, y: 4}
+        - {x: 10, y: 19}
     - name: M1_B_S6
       rect:
         serializedVersion: 2
@@ -1541,7 +1541,7 @@ TextureImporter:
     - name: M1_B_W7
       rect:
         serializedVersion: 2
-        x: 384
+        x: 383
         y: 768
         width: 64
         height: 64
@@ -1549,13 +1549,13 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -20, y: 20}
-        - {x: -20, y: -21}
-        - {x: -15, y: -32}
-        - {x: 24, y: -32}
-        - {x: 24, y: -16}
-        - {x: 17, y: 15}
-        - {x: 8, y: 20}
+      - - {x: -19, y: 20}
+        - {x: -19, y: -21}
+        - {x: -14, y: -32}
+        - {x: 25, y: -32}
+        - {x: 25, y: -16}
+        - {x: 18, y: 15}
+        - {x: 9, y: 20}
     - name: M1_B_W8
       rect:
         serializedVersion: 2
@@ -2102,7 +2102,7 @@ TextureImporter:
         - {x: 21, y: -13}
         - {x: 26, y: 3}
         - {x: 26, y: 19}
-    - name: FULL+spear_96
+    - name: M1_96
       rect:
         serializedVersion: 2
         x: 0
@@ -2110,7 +2110,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -10, y: 19}
@@ -2122,7 +2122,7 @@ TextureImporter:
         - {x: 17, y: -31}
         - {x: 17, y: 14}
         - {x: 10, y: 19}
-    - name: FULL+spear_97
+    - name: M1_97
       rect:
         serializedVersion: 2
         x: 64
@@ -2130,7 +2130,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -11, y: 18}
@@ -2140,7 +2140,7 @@ TextureImporter:
         - {x: 15, y: -31}
         - {x: 15, y: 14}
         - {x: 6, y: 18}
-    - name: FULL+spear_98
+    - name: M1_98
       rect:
         serializedVersion: 2
         x: 128
@@ -2148,7 +2148,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 7, y: 18}
@@ -2160,7 +2160,7 @@ TextureImporter:
         - {x: 15, y: -31}
         - {x: 15, y: -4}
         - {x: 14, y: 11}
-    - name: FULL+spear_99
+    - name: M1_99
       rect:
         serializedVersion: 2
         x: 192
@@ -2168,7 +2168,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -15, y: 19}
@@ -2176,7 +2176,7 @@ TextureImporter:
         - {x: 16, y: -32}
         - {x: 16, y: 17}
         - {x: 12, y: 19}
-    - name: FULL+spear_100
+    - name: M1_100
       rect:
         serializedVersion: 2
         x: 256
@@ -2184,7 +2184,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 7, y: 19}
@@ -2196,7 +2196,7 @@ TextureImporter:
         - {x: 24, y: -9}
         - {x: 24, y: 2}
         - {x: 21, y: 8}
-    - name: FULL+spear_101
+    - name: M1_101
       rect:
         serializedVersion: 2
         x: 320
@@ -2204,7 +2204,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 8, y: 19}
@@ -2217,7 +2217,7 @@ TextureImporter:
         - {x: 27, y: -18}
         - {x: 27, y: 9}
         - {x: 19, y: 15}
-    - name: FULL+spear_102
+    - name: M1_102
       rect:
         serializedVersion: 2
         x: 0
@@ -2225,7 +2225,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 8, y: 19}
@@ -2237,7 +2237,7 @@ TextureImporter:
         - {x: 12, y: -30}
         - {x: 14, y: -15}
         - {x: 14, y: 17}
-    - name: FULL+spear_103
+    - name: M1_103
       rect:
         serializedVersion: 2
         x: 64
@@ -2245,7 +2245,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -7, y: 17}
@@ -2254,7 +2254,7 @@ TextureImporter:
         - {x: -12, y: -32}
         - {x: 12, y: -32}
         - {x: 12, y: 17}
-    - name: FULL+spear_104
+    - name: M1_104
       rect:
         serializedVersion: 2
         x: 128
@@ -2262,7 +2262,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -11, y: 19}
@@ -2273,7 +2273,7 @@ TextureImporter:
         - {x: 14, y: -29}
         - {x: 14, y: 6}
         - {x: 10, y: 19}
-    - name: FULL+spear_105
+    - name: M1_105
       rect:
         serializedVersion: 2
         x: 192
@@ -2281,7 +2281,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 6, y: 19}
@@ -2294,7 +2294,7 @@ TextureImporter:
         - {x: 15, y: -29}
         - {x: 15, y: -2}
         - {x: 11, y: 13}
-    - name: FULL+spear_106
+    - name: M1_106
       rect:
         serializedVersion: 2
         x: 256
@@ -2302,7 +2302,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 6, y: 19}
@@ -2315,7 +2315,7 @@ TextureImporter:
         - {x: 14, y: -26}
         - {x: 14, y: -2}
         - {x: 10, y: 13}
-    - name: FULL+spear_107
+    - name: M1_107
       rect:
         serializedVersion: 2
         x: 320
@@ -2323,7 +2323,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 3, y: 19}
@@ -2336,7 +2336,7 @@ TextureImporter:
         - {x: 14, y: -26}
         - {x: 14, y: 8}
         - {x: 13, y: 15}
-    - name: FULL+spear_108
+    - name: M1_108
       rect:
         serializedVersion: 2
         x: 0
@@ -2344,7 +2344,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -5, y: 20}
@@ -2353,7 +2353,7 @@ TextureImporter:
         - {x: 17, y: -32}
         - {x: 17, y: 16}
         - {x: 12, y: 20}
-    - name: FULL+spear_109
+    - name: M1_109
       rect:
         serializedVersion: 2
         x: 64
@@ -2361,7 +2361,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -9, y: 20}
@@ -2370,7 +2370,7 @@ TextureImporter:
         - {x: -14, y: -32}
         - {x: 15, y: -32}
         - {x: 15, y: 20}
-    - name: FULL+spear_110
+    - name: M1_110
       rect:
         serializedVersion: 2
         x: 128
@@ -2378,7 +2378,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 5, y: 18}
@@ -2392,7 +2392,7 @@ TextureImporter:
         - {x: 15, y: -30}
         - {x: 15, y: -2}
         - {x: 14, y: 11}
-    - name: FULL+spear_111
+    - name: M1_111
       rect:
         serializedVersion: 2
         x: 192
@@ -2400,7 +2400,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -4, y: 19}
@@ -2412,7 +2412,7 @@ TextureImporter:
         - {x: 17, y: -24}
         - {x: 17, y: 12}
         - {x: 13, y: 19}
-    - name: FULL+spear_112
+    - name: M1_112
       rect:
         serializedVersion: 2
         x: 256
@@ -2420,7 +2420,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 14, y: -14}
@@ -2437,7 +2437,7 @@ TextureImporter:
         - {x: 17, y: -29}
         - {x: 15, y: -18}
         - {x: 14, y: -17}
-    - name: FULL+spear_113
+    - name: M1_113
       rect:
         serializedVersion: 2
         x: 320
@@ -2445,7 +2445,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 16, y: 20}
@@ -2456,7 +2456,7 @@ TextureImporter:
         - {x: 18, y: -32}
         - {x: 28, y: -15}
         - {x: 28, y: 4}
-    - name: FULL+spear_114
+    - name: M1_114
       rect:
         serializedVersion: 2
         x: 0
@@ -2464,7 +2464,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -11, y: 19}
@@ -2475,7 +2475,7 @@ TextureImporter:
         - {x: 13, y: -30}
         - {x: 13, y: 16}
         - {x: 6, y: 19}
-    - name: FULL+spear_115
+    - name: M1_115
       rect:
         serializedVersion: 2
         x: 64
@@ -2483,7 +2483,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -8, y: 17}
@@ -2493,7 +2493,7 @@ TextureImporter:
         - {x: 17, y: -27}
         - {x: 17, y: 13}
         - {x: 8, y: 17}
-    - name: FULL+spear_116
+    - name: M1_116
       rect:
         serializedVersion: 2
         x: 128
@@ -2501,7 +2501,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 7, y: 19}
@@ -2512,7 +2512,7 @@ TextureImporter:
         - {x: 14, y: -29}
         - {x: 15, y: -23}
         - {x: 15, y: 16}
-    - name: FULL+spear_117
+    - name: M1_117
       rect:
         serializedVersion: 2
         x: 192
@@ -2520,7 +2520,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -5, y: 19}
@@ -2530,7 +2530,7 @@ TextureImporter:
         - {x: -11, y: -32}
         - {x: 23, y: -32}
         - {x: 23, y: 19}
-    - name: FULL+spear_118
+    - name: M1_118
       rect:
         serializedVersion: 2
         x: 256
@@ -2538,7 +2538,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -14, y: -32}
@@ -2549,7 +2549,7 @@ TextureImporter:
         - {x: 13, y: 19}
         - {x: -8, y: 19}
         - {x: -14, y: 4}
-    - name: FULL+spear_119
+    - name: M1_119
       rect:
         serializedVersion: 2
         x: 320
@@ -2557,7 +2557,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -4, y: 19}
@@ -2570,7 +2570,7 @@ TextureImporter:
         - {x: 23, y: -7}
         - {x: 23, y: 9}
         - {x: 16, y: 19}
-    - name: FULL+spear_120
+    - name: M1_120
       rect:
         serializedVersion: 2
         x: 0
@@ -2578,7 +2578,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -11, y: 19}
@@ -2588,7 +2588,7 @@ TextureImporter:
         - {x: 16, y: -31}
         - {x: 16, y: 15}
         - {x: 13, y: 19}
-    - name: FULL+spear_121
+    - name: M1_121
       rect:
         serializedVersion: 2
         x: 64
@@ -2596,7 +2596,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -12, y: 18}
@@ -2607,7 +2607,7 @@ TextureImporter:
         - {x: 15, y: -27}
         - {x: 15, y: 13}
         - {x: 5, y: 18}
-    - name: FULL+spear_122
+    - name: M1_122
       rect:
         serializedVersion: 2
         x: 128
@@ -2615,7 +2615,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -6, y: 19}
@@ -2626,7 +2626,7 @@ TextureImporter:
         - {x: 14, y: -32}
         - {x: 14, y: 13}
         - {x: 9, y: 19}
-    - name: FULL+spear_123
+    - name: M1_123
       rect:
         serializedVersion: 2
         x: 192
@@ -2634,7 +2634,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -9, y: 19}
@@ -2645,7 +2645,7 @@ TextureImporter:
         - {x: 13, y: -32}
         - {x: 13, y: 15}
         - {x: 4, y: 19}
-    - name: FULL+spear_124
+    - name: M1_124
       rect:
         serializedVersion: 2
         x: 256
@@ -2653,7 +2653,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 5, y: 19}
@@ -2666,7 +2666,7 @@ TextureImporter:
         - {x: 17, y: -24}
         - {x: 17, y: 12}
         - {x: 16, y: 14}
-    - name: FULL+spear_125
+    - name: M1_125
       rect:
         serializedVersion: 2
         x: 320
@@ -2674,7 +2674,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -7, y: 19}
@@ -2685,7 +2685,7 @@ TextureImporter:
         - {x: 15, y: -22}
         - {x: 15, y: 11}
         - {x: 7, y: 19}
-    - name: FULL+spear_126
+    - name: M1_126
       rect:
         serializedVersion: 2
         x: 384
@@ -2693,7 +2693,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -8, y: 19}
@@ -2703,7 +2703,7 @@ TextureImporter:
         - {x: 16, y: -32}
         - {x: 16, y: 17}
         - {x: 11, y: 19}
-    - name: FULL+spear_127
+    - name: M1_127
       rect:
         serializedVersion: 2
         x: 448
@@ -2711,7 +2711,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -10, y: 19}
@@ -2722,7 +2722,7 @@ TextureImporter:
         - {x: 17, y: -26}
         - {x: 17, y: 6}
         - {x: 9, y: 19}
-    - name: FULL+spear_128
+    - name: M1_128
       rect:
         serializedVersion: 2
         x: 512
@@ -2730,7 +2730,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 7, y: 19}
@@ -2742,7 +2742,7 @@ TextureImporter:
         - {x: 18, y: -22}
         - {x: 18, y: 1}
         - {x: 13, y: 12}
-    - name: FULL+spear_129
+    - name: M1_129
       rect:
         serializedVersion: 2
         x: 576
@@ -2750,7 +2750,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 9, y: 19}
@@ -2762,7 +2762,7 @@ TextureImporter:
         - {x: 17, y: -25}
         - {x: 17, y: 12}
         - {x: 16, y: 14}
-    - name: FULL+spear_130
+    - name: M1_130
       rect:
         serializedVersion: 2
         x: 640
@@ -2770,7 +2770,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -9, y: 19}
@@ -2781,7 +2781,7 @@ TextureImporter:
         - {x: 13, y: -32}
         - {x: 13, y: 15}
         - {x: 4, y: 19}
-    - name: FULL+spear_131
+    - name: M1_131
       rect:
         serializedVersion: 2
         x: 704
@@ -2789,7 +2789,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -8, y: 19}
@@ -2799,7 +2799,7 @@ TextureImporter:
         - {x: 13, y: -32}
         - {x: 13, y: 15}
         - {x: 8, y: 19}
-    - name: FULL+spear_132
+    - name: M1_132
       rect:
         serializedVersion: 2
         x: 768
@@ -2807,7 +2807,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -9, y: 19}
@@ -2818,7 +2818,7 @@ TextureImporter:
         - {x: 13, y: -32}
         - {x: 13, y: 15}
         - {x: 4, y: 19}
-    - name: FULL+spear_133
+    - name: M1_133
       rect:
         serializedVersion: 2
         x: 0
@@ -2826,7 +2826,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 9, y: 19}
@@ -2838,7 +2838,7 @@ TextureImporter:
         - {x: 13, y: -30}
         - {x: 15, y: -15}
         - {x: 15, y: 17}
-    - name: FULL+spear_134
+    - name: M1_134
       rect:
         serializedVersion: 2
         x: 64
@@ -2846,7 +2846,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -11, y: 19}
@@ -2856,7 +2856,7 @@ TextureImporter:
         - {x: 15, y: -26}
         - {x: 15, y: 15}
         - {x: 14, y: 19}
-    - name: FULL+spear_135
+    - name: M1_135
       rect:
         serializedVersion: 2
         x: 128
@@ -2864,7 +2864,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 15, y: 13}
@@ -2878,7 +2878,7 @@ TextureImporter:
         - {x: 13, y: -30}
         - {x: 17, y: -17}
         - {x: 17, y: -9}
-    - name: FULL+spear_136
+    - name: M1_136
       rect:
         serializedVersion: 2
         x: 192
@@ -2886,7 +2886,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -11, y: 19}
@@ -2898,7 +2898,7 @@ TextureImporter:
         - {x: 18, y: -32}
         - {x: 18, y: 18}
         - {x: 13, y: 19}
-    - name: FULL+spear_137
+    - name: M1_137
       rect:
         serializedVersion: 2
         x: 256
@@ -2906,7 +2906,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -5, y: 19}
@@ -2918,7 +2918,7 @@ TextureImporter:
         - {x: 18, y: -21}
         - {x: 18, y: 8}
         - {x: 11, y: 19}
-    - name: FULL+spear_138
+    - name: M1_138
       rect:
         serializedVersion: 2
         x: 320
@@ -2926,7 +2926,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -6, y: 19}
@@ -2937,7 +2937,7 @@ TextureImporter:
         - {x: 15, y: -32}
         - {x: 15, y: 13}
         - {x: 12, y: 19}
-    - name: FULL+spear_139
+    - name: M1_139
       rect:
         serializedVersion: 2
         x: 384
@@ -2945,7 +2945,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -10, y: 19}
@@ -2957,7 +2957,7 @@ TextureImporter:
         - {x: 15, y: -32}
         - {x: 16, y: -28}
         - {x: 16, y: 19}
-    - name: FULL+spear_140
+    - name: M1_140
       rect:
         serializedVersion: 2
         x: 448
@@ -2965,7 +2965,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -6, y: 19}
@@ -2977,7 +2977,7 @@ TextureImporter:
         - {x: 19, y: -18}
         - {x: 19, y: 10}
         - {x: 13, y: 19}
-    - name: FULL+spear_141
+    - name: M1_141
       rect:
         serializedVersion: 2
         x: 512
@@ -2985,7 +2985,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -21, y: 19}
@@ -2994,7 +2994,7 @@ TextureImporter:
         - {x: 21, y: -22}
         - {x: 21, y: 11}
         - {x: 12, y: 19}
-    - name: FULL+spear_142
+    - name: M1_142
       rect:
         serializedVersion: 2
         x: 576
@@ -3002,7 +3002,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -5, y: 19}
@@ -3014,7 +3014,7 @@ TextureImporter:
         - {x: 18, y: -21}
         - {x: 18, y: 8}
         - {x: 11, y: 19}
-    - name: FULL+spear_143
+    - name: M1_143
       rect:
         serializedVersion: 2
         x: 640
@@ -3022,7 +3022,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -7, y: 19}
@@ -3035,7 +3035,7 @@ TextureImporter:
         - {x: 17, y: -30}
         - {x: 17, y: 8}
         - {x: 12, y: 19}
-    - name: FULL+spear_144
+    - name: M1_144
       rect:
         serializedVersion: 2
         x: 704
@@ -3043,7 +3043,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -7, y: 19}
@@ -3054,7 +3054,7 @@ TextureImporter:
         - {x: 15, y: -32}
         - {x: 15, y: 13}
         - {x: 12, y: 19}
-    - name: FULL+spear_145
+    - name: M1_145
       rect:
         serializedVersion: 2
         x: 768
@@ -3062,7 +3062,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -7, y: 19}
@@ -3075,7 +3075,7 @@ TextureImporter:
         - {x: 17, y: -30}
         - {x: 17, y: 8}
         - {x: 12, y: 19}
-    - name: FULL+spear_146
+    - name: M1_146
       rect:
         serializedVersion: 2
         x: 0
@@ -3083,7 +3083,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -6, y: 20}
@@ -3092,7 +3092,7 @@ TextureImporter:
         - {x: 16, y: -32}
         - {x: 16, y: 16}
         - {x: 11, y: 20}
-    - name: FULL+spear_147
+    - name: M1_147
       rect:
         serializedVersion: 2
         x: 64
@@ -3100,7 +3100,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -9, y: 20}
@@ -3112,7 +3112,7 @@ TextureImporter:
         - {x: 14, y: -17}
         - {x: 14, y: 16}
         - {x: 11, y: 20}
-    - name: FULL+spear_148
+    - name: M1_148
       rect:
         serializedVersion: 2
         x: 128
@@ -3120,7 +3120,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -7, y: 20}
@@ -3132,7 +3132,7 @@ TextureImporter:
         - {x: 14, y: -15}
         - {x: 14, y: 14}
         - {x: 9, y: 20}
-    - name: FULL+spear_149
+    - name: M1_149
       rect:
         serializedVersion: 2
         x: 192
@@ -3140,7 +3140,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -4, y: 20}
@@ -3152,7 +3152,7 @@ TextureImporter:
         - {x: 14, y: -12}
         - {x: 14, y: 13}
         - {x: 6, y: 20}
-    - name: FULL+spear_150
+    - name: M1_150
       rect:
         serializedVersion: 2
         x: 256
@@ -3160,7 +3160,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 5, y: 20}
@@ -3174,7 +3174,7 @@ TextureImporter:
         - {x: 11, y: -30}
         - {x: 14, y: -7}
         - {x: 14, y: 16}
-    - name: FULL+spear_151
+    - name: M1_151
       rect:
         serializedVersion: 2
         x: 320
@@ -3182,7 +3182,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -14, y: 20}
@@ -3193,7 +3193,7 @@ TextureImporter:
         - {x: 14, y: -20}
         - {x: 14, y: 16}
         - {x: 9, y: 20}
-    - name: FULL+spear_152
+    - name: M1_152
       rect:
         serializedVersion: 2
         x: 384
@@ -3201,7 +3201,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -9, y: 20}
@@ -3215,7 +3215,7 @@ TextureImporter:
         - {x: 14, y: -24}
         - {x: 14, y: 16}
         - {x: 11, y: 20}
-    - name: FULL+spear_153
+    - name: M1_153
       rect:
         serializedVersion: 2
         x: 448
@@ -3223,7 +3223,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -10, y: 20}
@@ -3234,7 +3234,7 @@ TextureImporter:
         - {x: 14, y: -16}
         - {x: 14, y: 16}
         - {x: 5, y: 20}
-    - name: FULL+spear_154
+    - name: M1_154
       rect:
         serializedVersion: 2
         x: 512
@@ -3242,7 +3242,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -13, y: 20}
@@ -3254,7 +3254,7 @@ TextureImporter:
         - {x: 14, y: -20}
         - {x: 14, y: 12}
         - {x: 10, y: 20}
-    - name: FULL+spear_155
+    - name: M1_155
       rect:
         serializedVersion: 2
         x: 576
@@ -3262,7 +3262,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -7, y: 20}
@@ -3274,7 +3274,7 @@ TextureImporter:
         - {x: 14, y: -14}
         - {x: 14, y: 13}
         - {x: 11, y: 20}
-    - name: FULL+spear_156
+    - name: M1_156
       rect:
         serializedVersion: 2
         x: 640
@@ -3282,7 +3282,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -15, y: 20}
@@ -3293,7 +3293,7 @@ TextureImporter:
         - {x: 14, y: -15}
         - {x: 14, y: 14}
         - {x: 11, y: 20}
-    - name: FULL+spear_157
+    - name: M1_157
       rect:
         serializedVersion: 2
         x: 704
@@ -3301,7 +3301,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -7, y: 20}
@@ -3312,7 +3312,7 @@ TextureImporter:
         - {x: 14, y: -14}
         - {x: 14, y: 13}
         - {x: 11, y: 20}
-    - name: FULL+spear_158
+    - name: M1_158
       rect:
         serializedVersion: 2
         x: 768
@@ -3320,7 +3320,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 6, y: 20}
@@ -3332,7 +3332,7 @@ TextureImporter:
         - {x: 9, y: -30}
         - {x: 14, y: -5}
         - {x: 14, y: 16}
-    - name: FULL+spear_159
+    - name: M1_159
       rect:
         serializedVersion: 2
         x: 0
@@ -3340,7 +3340,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -12, y: 19}
@@ -3351,7 +3351,7 @@ TextureImporter:
         - {x: 12, y: -30}
         - {x: 12, y: 16}
         - {x: 5, y: 19}
-    - name: FULL+spear_160
+    - name: M1_160
       rect:
         serializedVersion: 2
         x: 64
@@ -3359,7 +3359,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -11, y: 19}
@@ -3370,7 +3370,7 @@ TextureImporter:
         - {x: 14, y: -31}
         - {x: 14, y: 17}
         - {x: 9, y: 19}
-    - name: FULL+spear_161
+    - name: M1_161
       rect:
         serializedVersion: 2
         x: 128
@@ -3378,7 +3378,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 7, y: 19}
@@ -3391,7 +3391,7 @@ TextureImporter:
         - {x: 19, y: -25}
         - {x: 19, y: -3}
         - {x: 15, y: 8}
-    - name: FULL+spear_162
+    - name: M1_162
       rect:
         serializedVersion: 2
         x: 192
@@ -3399,7 +3399,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -8, y: 19}
@@ -3411,7 +3411,7 @@ TextureImporter:
         - {x: 21, y: -21}
         - {x: 21, y: 7}
         - {x: 12, y: 19}
-    - name: FULL+spear_163
+    - name: M1_163
       rect:
         serializedVersion: 2
         x: 256
@@ -3419,7 +3419,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -18, y: 19}
@@ -3429,7 +3429,7 @@ TextureImporter:
         - {x: 21, y: -9}
         - {x: 21, y: 5}
         - {x: 11, y: 19}
-    - name: FULL+spear_164
+    - name: M1_164
       rect:
         serializedVersion: 2
         x: 320
@@ -3437,7 +3437,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 4, y: 19}
@@ -3449,7 +3449,7 @@ TextureImporter:
         - {x: 22, y: -6}
         - {x: 22, y: 6}
         - {x: 15, y: 15}
-    - name: FULL+spear_165
+    - name: M1_165
       rect:
         serializedVersion: 2
         x: 384
@@ -3457,7 +3457,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 10, y: 19}
@@ -3469,7 +3469,7 @@ TextureImporter:
         - {x: 22, y: -15}
         - {x: 22, y: 5}
         - {x: 20, y: 8}
-    - name: FULL+spear_166
+    - name: M1_166
       rect:
         serializedVersion: 2
         x: 448
@@ -3477,7 +3477,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 6, y: 19}
@@ -3489,7 +3489,7 @@ TextureImporter:
         - {x: 21, y: -15}
         - {x: 21, y: 3}
         - {x: 15, y: 14}
-    - name: FULL+spear_167
+    - name: M1_167
       rect:
         serializedVersion: 2
         x: 512
@@ -3497,7 +3497,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -21, y: 19}
@@ -3507,7 +3507,7 @@ TextureImporter:
         - {x: 21, y: -15}
         - {x: 21, y: 15}
         - {x: 20, y: 19}
-    - name: FULL+spear_168
+    - name: M1_168
       rect:
         serializedVersion: 2
         x: 576
@@ -3515,7 +3515,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -18, y: 19}
@@ -3525,7 +3525,7 @@ TextureImporter:
         - {x: 21, y: -9}
         - {x: 21, y: 5}
         - {x: 11, y: 19}
-    - name: FULL+spear_169
+    - name: M1_169
       rect:
         serializedVersion: 2
         x: 640
@@ -3533,7 +3533,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -8, y: 19}
@@ -3544,7 +3544,7 @@ TextureImporter:
         - {x: 21, y: -9}
         - {x: 21, y: 5}
         - {x: 11, y: 19}
-    - name: FULL+spear_170
+    - name: M1_170
       rect:
         serializedVersion: 2
         x: 704
@@ -3552,7 +3552,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -13, y: 19}
@@ -3563,7 +3563,7 @@ TextureImporter:
         - {x: 21, y: -8}
         - {x: 21, y: 4}
         - {x: 11, y: 19}
-    - name: FULL+spear_171
+    - name: M1_171
       rect:
         serializedVersion: 2
         x: 768
@@ -3571,7 +3571,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -8, y: 19}
@@ -3658,21 +3658,21 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 256
-        y: 1
+        y: 0
         width: 64
         height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -5, y: 1}
-        - {x: -15, y: -10}
-        - {x: -15, y: -31}
-        - {x: -14, y: -32}
-        - {x: 17, y: -32}
-        - {x: 20, y: -31}
-        - {x: 20, y: -9}
-        - {x: 10, y: 1}
+      - - {x: -5, y: 2}
+        - {x: -15, y: -9}
+        - {x: -15, y: -30}
+        - {x: -14, y: -31}
+        - {x: 17, y: -31}
+        - {x: 20, y: -30}
+        - {x: 20, y: -8}
+        - {x: 10, y: 2}
     - name: M1_D6
       rect:
         serializedVersion: 2

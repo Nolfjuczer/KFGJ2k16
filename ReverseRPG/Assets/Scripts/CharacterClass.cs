@@ -42,7 +42,8 @@ public class Spell
 public enum EClasses
 {
     Mage,
-    Knight
+    Knight,
+    None
 }
 
 public enum ELevels

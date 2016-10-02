@@ -12,13 +12,13 @@ public class CameraController : MonoBehaviour
 	// Update is called once per frame
 	void Update ()
     {
-	    switch (GameController.Me.PlayersCount)
+	    switch (GameController.Me.Players.Length)
 	    {
-	        case EPlayersCount.One:
+	        case 1:
 	            Vector3 playerPos = GameController.Me.Players[0].transform.localPosition;
                 transform.localPosition = new Vector3(Mathf.Clamp(playerPos.x,-5.5f,5.5f), Mathf.Clamp(playerPos.y, -5.5f, 5.5f),transform.position.z);
 	            break;
-            case EPlayersCount.Two:
+            case 2:
 	            break;
             default:
 	            break;

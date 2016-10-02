@@ -19,6 +19,40 @@ public class UIController : Singleton<UIController>
     private Text _expTextTemplate;
     [SerializeField]
     private float _textMovement;
+    [SerializeField]
+    private GameObject _start;
+    [SerializeField]
+    private GameObject _choose;
+    [SerializeField]
+    private GameObject _stage;
+    [SerializeField]
+    private GameObject _inGame;
+
+    public void OnGameStateChange()
+    {
+        switch (GameController.Me.GameState)
+        {
+            case EGameState.START:
+                _start.SetActive(true);
+                _choose.SetActive(false);
+                _stage.SetActive(false);
+                _inGame.SetActive(false);
+                break;
+            case EGameState.CHOOSE:
+                _start.SetActive(false);
+                _choose.SetActive(true);
+                break;
+            case EGameState.STAGE:
+                _inGame.SetActive(false);
+                _choose.SetActive(false);
+                _stage.SetActive(true);
+                break;
+            case EGameState.GAME:
+                _stage.SetActive(false);
+                _inGame.SetActive(true);
+                break;
+        }
+    }
 
     public void UseDamage(Vector3 position, string value)
     {

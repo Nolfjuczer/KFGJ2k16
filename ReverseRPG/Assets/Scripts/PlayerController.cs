@@ -37,6 +37,7 @@ public class PlayerController : MonoBehaviour
 	
 	void Update ()
 	{
+	    if (GameController.Me.GameState != EGameState.GAME) return;
         _attackTimer -= Time.deltaTime;
         Vector3 move = InputController.Me.GetLeftStick(PlayerPad);
 	    if (move.magnitude > 0.1f)

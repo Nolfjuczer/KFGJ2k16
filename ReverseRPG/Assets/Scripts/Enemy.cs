@@ -125,11 +125,11 @@ public class Enemy : MonoBehaviour
         RaycastHit2D[] hits;
         if (Mathf.Abs(diffrence.x) > Mathf.Abs(diffrence.y))
         {
-            hits = Physics2D.CircleCastAll(gameObject.transform.localPosition, 0.3f, Mathf.Sign(diffrence.x) * Vector3.right);
+            hits = Physics2D.CircleCastAll(gameObject.transform.localPosition, 0.3f, Mathf.Sign(diffrence.x) * Vector3.right,0.7f);
         }
         else
         {
-            hits = Physics2D.CircleCastAll(gameObject.transform.localPosition, 0.3f, Mathf.Sign(diffrence.y) * Vector3.up);
+            hits = Physics2D.CircleCastAll(gameObject.transform.localPosition, 0.3f, Mathf.Sign(diffrence.y) * Vector3.up,0.7f);
         }
         foreach (RaycastHit2D hit in hits)
         {

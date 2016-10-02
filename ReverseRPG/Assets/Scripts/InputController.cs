@@ -113,7 +113,7 @@ public class InputController : Singleton<InputController>
 
     //public void Update()
     //{
-    //    Debug.Log(GetLeftStick(EGamePad.Pad2));
+    //    Debug.Log(GetLeftStick(EGamePad.Pad1));
     //}
 }
 

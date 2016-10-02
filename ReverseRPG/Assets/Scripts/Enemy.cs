@@ -29,7 +29,8 @@ public class Enemy : MonoBehaviour
 	// Update is called once per frame
 	void Update ()
     {
-	    GoToPosition();
+        if (GameController.Me.GameState != EGameState.GAME) return;
+        GoToPosition();
 	    _attackTimer -= Time.deltaTime;
     }
 

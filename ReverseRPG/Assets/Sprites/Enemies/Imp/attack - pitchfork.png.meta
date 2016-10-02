@@ -1,0 +1,397 @@
+fileFormatVersion: 2
+guid: 0eb30b31705e15b47962b2e7e13911c6
+timeCreated: 1475346126
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: IMP_F_A1
+    21300002: IMP_F_A2
+    21300004: IMP_F_A3
+    21300006: IMP_F_A4
+    21300008: IMP_B_A1
+    21300010: IMP_B_A2
+    21300012: IMP_B_A3
+    21300014: IMP_B_A4
+    21300016: IMP_R_A1
+    21300018: IMP_R_A2
+    21300020: IMP_R_A3
+    21300022: IMP_R_A4
+    21300024: IMP_L_A1
+    21300026: IMP_L_A2
+    21300028: IMP_L_A3
+    21300030: IMP_L_A4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: IMP_F_A1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 32}
+        - {x: -27, y: 24}
+        - {x: -27, y: -7}
+        - {x: 0, y: -21}
+        - {x: 23, y: -21}
+        - {x: 27, y: -6}
+        - {x: 27, y: 27}
+        - {x: 21, y: 32}
+    - name: IMP_F_A2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25}
+        - {x: -32, y: 13}
+        - {x: -32, y: -20}
+        - {x: -8, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 19}
+        - {x: 29, y: 25}
+    - name: IMP_F_A3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 26}
+        - {x: -21, y: 26}
+        - {x: -32, y: 21}
+        - {x: -32, y: -9}
+        - {x: 0, y: -32}
+        - {x: 26, y: -32}
+        - {x: 32, y: -23}
+        - {x: 32, y: 11}
+        - {x: 24, y: 20}
+    - name: IMP_F_A4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 30}
+        - {x: -20, y: 30}
+        - {x: -32, y: 24}
+        - {x: -32, y: -5}
+        - {x: -30, y: -5}
+        - {x: -27, y: -4}
+        - {x: -12, y: -16}
+        - {x: -3, y: -15}
+        - {x: -1, y: -13}
+        - {x: 1, y: -25}
+        - {x: 5, y: -27}
+        - {x: 20, y: -27}
+        - {x: 30, y: -12}
+        - {x: 32, y: -6}
+        - {x: 32, y: 19}
+    - name: IMP_B_A1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 13}
+        - {x: 17, y: 14}
+        - {x: -22, y: 14}
+        - {x: -28, y: 2}
+        - {x: -28, y: -20}
+        - {x: -26, y: -22}
+        - {x: -23, y: -21}
+        - {x: -14, y: -32}
+        - {x: 16, y: -32}
+        - {x: 28, y: -22}
+        - {x: 28, y: 3}
+    - name: IMP_B_A2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 20}
+        - {x: -32, y: 17}
+        - {x: -32, y: -19}
+        - {x: -27, y: -28}
+        - {x: 21, y: -28}
+        - {x: 32, y: -16}
+        - {x: 32, y: 18}
+        - {x: 27, y: 20}
+    - name: IMP_B_A3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 18}
+        - {x: -32, y: -13}
+        - {x: -18, y: -24}
+        - {x: -13, y: -28}
+        - {x: 31, y: -28}
+        - {x: 32, y: -27}
+        - {x: 32, y: 18}
+    - name: IMP_B_A4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 16}
+        - {x: -16, y: 16}
+        - {x: -32, y: 6}
+        - {x: -32, y: -19}
+        - {x: -30, y: -19}
+        - {x: -27, y: -18}
+        - {x: -25, y: -15}
+        - {x: -10, y: -27}
+        - {x: -6, y: -27}
+        - {x: 1, y: -29}
+        - {x: 15, y: -29}
+        - {x: 17, y: -28}
+        - {x: 32, y: -18}
+        - {x: 32, y: -2}
+    - name: IMP_R_A1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 22}
+        - {x: -5, y: 23}
+        - {x: -26, y: 23}
+        - {x: -32, y: 11}
+        - {x: -32, y: -18}
+        - {x: -22, y: -21}
+        - {x: 1, y: -21}
+        - {x: 2, y: -19}
+        - {x: 2, y: 3}
+        - {x: 1, y: 6}
+    - name: IMP_R_A2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -4}
+        - {x: 6, y: 23}
+        - {x: -17, y: 23}
+        - {x: -30, y: 14}
+        - {x: -30, y: -19}
+        - {x: -18, y: -21}
+        - {x: 10, y: -21}
+        - {x: 19, y: -19}
+        - {x: 25, y: -14}
+        - {x: 25, y: -8}
+    - name: IMP_R_A3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: -16}
+        - {x: -24, y: -21}
+        - {x: 20, y: -21}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 13, y: 23}
+        - {x: -20, y: 23}
+        - {x: -28, y: 19}
+    - name: IMP_R_A4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 24}
+        - {x: -28, y: 22}
+        - {x: -28, y: -21}
+        - {x: 13, y: -21}
+        - {x: 13, y: 1}
+        - {x: 2, y: 24}
+    - name: IMP_L_A1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 23}
+        - {x: -2, y: -18}
+        - {x: 0, y: -21}
+        - {x: 22, y: -21}
+        - {x: 32, y: -14}
+        - {x: 32, y: 17}
+        - {x: 28, y: 23}
+    - name: IMP_L_A2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 23}
+        - {x: -25, y: -4}
+        - {x: -25, y: -21}
+        - {x: 30, y: -21}
+        - {x: 30, y: 11}
+        - {x: 18, y: 23}
+    - name: IMP_L_A3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 23}
+        - {x: -22, y: -2}
+        - {x: -22, y: -18}
+        - {x: -21, y: -20}
+        - {x: -19, y: -21}
+        - {x: 22, y: -21}
+        - {x: 28, y: -12}
+        - {x: 28, y: 17}
+        - {x: 19, y: 23}
+    - name: IMP_L_A4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: -11}
+        - {x: 28, y: -9}
+        - {x: 28, y: 11}
+        - {x: 27, y: 18}
+        - {x: 23, y: 24}
+        - {x: -4, y: 24}
+        - {x: -13, y: 14}
+        - {x: -13, y: -15}
+        - {x: -3, y: -21}
+        - {x: 15, y: -21}
+        - {x: 22, y: -12}
+        - {x: 22, y: -8}
+        - {x: 24, y: -11}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -24,7 +24,7 @@ public class GameController : Singleton<GameController>
     {
         base.Awake();
         GameState = EGameState.START;
-        MainGrid = FindObjectOfType<AStar.Grid>();
+        //MainGrid = FindObjectOfType<AStar.Grid>();
         _firstTime = true;
     }
 

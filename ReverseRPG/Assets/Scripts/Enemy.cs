@@ -18,11 +18,13 @@ public class Enemy : MonoBehaviour
     public float AttackDelay;
 
     private float _distanceToNext;
+    private Animator _myAnimator;
 	// Use this for initialization
 	void Start ()
 	{
         _myAgent = GetComponent<AStar.AStarAgent>();
         MyState = EEnemyState.Wander;
+	    _myAnimator = GetComponent<Animator>();
         Wander();
 	}
 	
@@ -56,8 +58,61 @@ public class Enemy : MonoBehaviour
         GetNextElement();
     }
 
-    private void GoToPosition()
+    public void ResetAllActions()
     {
+        _myAnimator.SetBool("ATTACK", false);
+        _myAnimator.SetBool("WALK", false);
+    }
+
+
+    public void ProcessAtackAnimation(Vector2 vec)
+    {
+        ProcessActionDirection(vec);
+        _myAnimator.SetBool("ATTACK", true);
+    }
+
+    public void ProcessWalkAnimation()
+    {
+        if (_myAnimator.GetBool("ATTACK")) return;
+        ProcessActionDirection(_movementDirection);
+        _myAnimator.SetBool("WALK", true);
+    }
+
+    public void ProcessActionDirection(Vector2 vector)
+    {
+        if (vector == Vector2.left)
+        {
+            _myAnimator.SetBool("LEFT", true);
+            _myAnimator.SetBool("RIGHT", false);
+            _myAnimator.SetBool("BACK", false);
+            _myAnimator.SetBool("FRONT", false);
+        }
+        else if (vector == Vector2.down)
+        {
+            _myAnimator.SetBool("LEFT", false);
+            _myAnimator.SetBool("RIGHT", false);
+            _myAnimator.SetBool("BACK", false);
+            _myAnimator.SetBool("FRONT", true);
+        }
+        else if (vector == Vector2.right)
+        {
+            _myAnimator.SetBool("LEFT", false);
+            _myAnimator.SetBool("RIGHT", true);
+            _myAnimator.SetBool("BACK", false);
+            _myAnimator.SetBool("FRONT", false);
+        }
+        else
+        {
+            _myAnimator.SetBool("LEFT", false);
+            _myAnimator.SetBool("RIGHT", false);
+            _myAnimator.SetBool("BACK", true);
+            _myAnimator.SetBool("FRONT", false);
+        }
+    }
+
+    private void GoToPosition()
+    { 
+        ProcessWalkAnimation();
         switch (MyState)
         {
             case EEnemyState.Wander:
@@ -127,11 +182,14 @@ public class Enemy : MonoBehaviour
         if (Mathf.Abs(diffrence.x) > Mathf.Abs(diffrence.y))
         {
             hits = Physics2D.CircleCastAll(gameObject.transform.localPosition, 0.3f, Mathf.Sign(diffrence.x) * Vector3.right,0.7f);
+            ProcessAtackAnimation(new Vector2(Mathf.Sign(diffrence.x),0.0f));
         }
         else
         {
             hits = Physics2D.CircleCastAll(gameObject.transform.localPosition, 0.3f, Mathf.Sign(diffrence.y) * Vector3.up,0.7f);
+            ProcessAtackAnimation(new Vector2(0.0f, Mathf.Sign(diffrence.y)));
         }
+        
         foreach (RaycastHit2D hit in hits)
         {
             if (hit.transform.gameObject.tag == "Player")

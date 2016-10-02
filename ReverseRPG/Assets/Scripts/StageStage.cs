@@ -8,7 +8,18 @@ public class StageStage : MonoBehaviour
     public GameObject KnightLeft;
     public GameObject KnightRight;
 
-    public bool _canClick = false;
+    public int ReadyPlayers;
+    private bool _canClick = false;
+
+    public void OnGoToGame(int x)
+    {
+        ReadyPlayers += x;
+        ReadyPlayers = Mathf.Clamp(ReadyPlayers, 0, 2);
+        if (ReadyPlayers == 2)
+        {
+            GameController.Me.ChangeState(EGameState.GAME);
+        }
+    }
 
     void OnEnable()
     {

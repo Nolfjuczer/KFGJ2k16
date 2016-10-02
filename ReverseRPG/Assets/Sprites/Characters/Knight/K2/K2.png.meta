@@ -1,9 +1,187 @@
 fileFormatVersion: 2
 guid: 8e41fb9fbfd94134aa16f23f85561dd5
-timeCreated: 1475372986
+timeCreated: 1475381922
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: K2_0
+    21300002: K2_1
+    21300004: K2_2
+    21300006: K2_3
+    21300008: K2_4
+    21300010: K2_5
+    21300012: K2_6
+    21300014: K2_7
+    21300016: K2_8
+    21300018: K2_9
+    21300020: K2_10
+    21300022: K2_11
+    21300024: K2_12
+    21300026: K2_13
+    21300028: K2_14
+    21300030: K2_15
+    21300032: K2_16
+    21300034: K2_17
+    21300036: K2_18
+    21300038: K2_19
+    21300040: K2_20
+    21300042: K2_21
+    21300044: K2_22
+    21300046: K2_23
+    21300048: K2_24
+    21300050: K2_25
+    21300052: K2_26
+    21300054: K2_27
+    21300056: K2_28
+    21300058: K2_29
+    21300060: K2_30
+    21300062: K2_31
+    21300064: K2_32
+    21300066: K2_33
+    21300068: K2_34
+    21300070: K2_35
+    21300072: K2_36
+    21300074: K2_37
+    21300076: K2_38
+    21300078: K2_39
+    21300080: K2_40
+    21300082: K2_41
+    21300084: K2_42
+    21300086: K2_43
+    21300088: K2_44
+    21300090: K2_45
+    21300092: K2_46
+    21300094: K2_47
+    21300096: K2_48
+    21300098: K2_49
+    21300100: K2_50
+    21300102: K2_51
+    21300104: K2_52
+    21300106: K2_53
+    21300108: K2_54
+    21300110: K2_55
+    21300112: K2_56
+    21300114: K2_57
+    21300116: K2_58
+    21300118: K2_59
+    21300120: K2_60
+    21300122: K2_61
+    21300124: K2_62
+    21300126: K2_63
+    21300128: K2_64
+    21300130: K2_65
+    21300132: K2_66
+    21300134: K2_67
+    21300136: K2_68
+    21300138: K2_69
+    21300140: K2_70
+    21300142: K2_71
+    21300144: K2_72
+    21300146: K2_73
+    21300148: K2_74
+    21300150: K2_75
+    21300152: K2_76
+    21300154: K2_77
+    21300156: K2_78
+    21300158: K2_79
+    21300160: K2_80
+    21300162: K2_81
+    21300164: K2_82
+    21300166: K2_83
+    21300168: K2_84
+    21300170: K2_85
+    21300172: K2_86
+    21300174: K2_87
+    21300176: K2_88
+    21300178: K2_89
+    21300180: K2_90
+    21300182: K2_91
+    21300184: K2_92
+    21300186: K2_93
+    21300188: K2_94
+    21300190: K2_95
+    21300192: K2_96
+    21300194: K2_97
+    21300196: K2_98
+    21300198: K2_99
+    21300200: K2_100
+    21300202: K2_101
+    21300204: K2_102
+    21300206: K2_103
+    21300208: K2_104
+    21300210: K2_105
+    21300212: K2_106
+    21300214: K2_107
+    21300216: K2_108
+    21300218: K2_109
+    21300220: K2_110
+    21300222: K2_111
+    21300224: K2_112
+    21300226: K2_113
+    21300228: K2_114
+    21300230: K2_115
+    21300232: K2_116
+    21300234: K2_117
+    21300236: K2_118
+    21300238: K2_119
+    21300240: K2_120
+    21300242: K2_121
+    21300244: K2_122
+    21300246: K2_123
+    21300248: K2_124
+    21300250: K2_125
+    21300252: K2_126
+    21300254: K2_127
+    21300256: K2_128
+    21300258: K2_129
+    21300260: K2_130
+    21300262: K2_131
+    21300264: K2_132
+    21300266: K2_133
+    21300268: K2_134
+    21300270: K2_135
+    21300272: K2_136
+    21300274: K2_137
+    21300276: K2_138
+    21300278: K2_139
+    21300280: K2_140
+    21300282: K2_141
+    21300284: K2_142
+    21300286: K2_143
+    21300288: K2_144
+    21300290: K2_145
+    21300292: K2_146
+    21300294: K2_147
+    21300296: K2_148
+    21300298: K2_149
+    21300300: K2_150
+    21300302: K2_151
+    21300304: K2_152
+    21300306: K2_153
+    21300308: K2_154
+    21300310: K2_155
+    21300312: K2_156
+    21300314: K2_157
+    21300316: K2_158
+    21300318: K2_159
+    21300320: K2_160
+    21300322: K2_161
+    21300324: K2_162
+    21300326: K2_163
+    21300328: K2_164
+    21300330: K2_165
+    21300332: K2_166
+    21300334: K2_167
+    21300336: K2_168
+    21300338: K2_169
+    21300340: K2_170
+    21300342: K2_171
+    21300344: K2_172
+    21300346: K2_173
+    21300348: K2_174
+    21300350: K2_175
+    21300352: K2_176
+    21300354: K2_177
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -30,7 +208,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 16
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
@@ -38,7 +216,7 @@ TextureImporter:
   rGBM: 0
   compressionQuality: 50
   allowsAlphaSplitting: 0
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -49,7 +227,3443 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: K2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 18}
+        - {x: -16, y: 17}
+        - {x: -17, y: 3}
+        - {x: -17, y: -31}
+        - {x: -13, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 15}
+        - {x: 14, y: 18}
+    - name: K2_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 12}
+        - {x: 9, y: 18}
+        - {x: -16, y: 18}
+        - {x: -16, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -23}
+        - {x: 16, y: 8}
+    - name: K2_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 18}
+        - {x: -16, y: -31}
+        - {x: -14, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -31}
+        - {x: 16, y: 14}
+        - {x: 11, y: 18}
+    - name: K2_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 18}
+        - {x: -20, y: -32}
+        - {x: 20, y: -32}
+        - {x: 20, y: 17}
+        - {x: 16, y: 18}
+    - name: K2_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 18}
+        - {x: -15, y: 16}
+        - {x: -27, y: 4}
+        - {x: -27, y: -6}
+        - {x: -21, y: -32}
+        - {x: 18, y: -32}
+        - {x: 27, y: -15}
+        - {x: 27, y: 5}
+        - {x: 18, y: 18}
+    - name: K2_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 18}
+        - {x: -15, y: 17}
+        - {x: -26, y: 10}
+        - {x: -26, y: 3}
+        - {x: -25, y: -1}
+        - {x: -21, y: -32}
+        - {x: 18, y: -32}
+        - {x: 26, y: -8}
+        - {x: 26, y: 15}
+        - {x: 24, y: 18}
+    - name: K2_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 18}
+        - {x: -20, y: -32}
+        - {x: 20, y: -32}
+        - {x: 20, y: 17}
+        - {x: 16, y: 18}
+    - name: K2_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 19}
+        - {x: -11, y: 17}
+        - {x: -11, y: -32}
+        - {x: 9, y: -32}
+        - {x: 13, y: -31}
+        - {x: 13, y: 18}
+        - {x: 8, y: 19}
+    - name: K2_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 19}
+        - {x: -8, y: 19}
+        - {x: -13, y: 14}
+        - {x: -13, y: -31}
+        - {x: -9, y: -32}
+        - {x: 11, y: -32}
+        - {x: 14, y: -26}
+        - {x: 14, y: 17}
+    - name: K2_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 19}
+        - {x: -12, y: 15}
+        - {x: -12, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: 18}
+        - {x: 8, y: 19}
+    - name: K2_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 19}
+        - {x: -12, y: 19}
+        - {x: -14, y: 18}
+        - {x: -14, y: -32}
+        - {x: 10, y: -32}
+        - {x: 16, y: -18}
+        - {x: 16, y: 10}
+        - {x: 14, y: 17}
+    - name: K2_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 19}
+        - {x: -16, y: -32}
+        - {x: 6, y: -32}
+        - {x: 12, y: -29}
+        - {x: 21, y: -9}
+        - {x: 21, y: 7}
+        - {x: 8, y: 19}
+    - name: K2_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 19}
+        - {x: -13, y: 17}
+        - {x: -16, y: 10}
+        - {x: -16, y: -13}
+        - {x: -14, y: -30}
+        - {x: -9, y: -32}
+        - {x: 12, y: -32}
+        - {x: 21, y: -16}
+        - {x: 21, y: 8}
+        - {x: 12, y: 19}
+    - name: K2_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 18}
+        - {x: 7, y: 19}
+        - {x: -6, y: 19}
+        - {x: -13, y: 13}
+        - {x: -14, y: 3}
+        - {x: -14, y: -19}
+        - {x: -11, y: -29}
+        - {x: -10, y: -31}
+        - {x: -1, y: -32}
+        - {x: 8, y: -32}
+        - {x: 11, y: -29}
+        - {x: 18, y: -19}
+        - {x: 18, y: 8}
+    - name: K2_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -32}
+        - {x: 14, y: -32}
+        - {x: 17, y: -26}
+        - {x: 17, y: 3}
+        - {x: 14, y: 17}
+        - {x: 8, y: 19}
+        - {x: -12, y: 19}
+        - {x: -17, y: 15}
+        - {x: -17, y: -32}
+        - {x: -3, y: -32}
+        - {x: -1, y: -28}
+        - {x: -1, y: -24}
+        - {x: 1, y: -28}
+    - name: K2_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 19}
+        - {x: -11, y: 19}
+        - {x: -17, y: 11}
+        - {x: -17, y: -32}
+        - {x: 14, y: -32}
+        - {x: 17, y: -26}
+        - {x: 17, y: 6}
+        - {x: 14, y: 17}
+    - name: K2_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: -32}
+        - {x: 16, y: -29}
+        - {x: 16, y: 6}
+        - {x: 10, y: 19}
+        - {x: -8, y: 19}
+        - {x: -16, y: 16}
+        - {x: -16, y: -31}
+        - {x: -12, y: -32}
+        - {x: -3, y: -32}
+        - {x: -1, y: -28}
+        - {x: 0, y: -29}
+        - {x: 5, y: -32}
+    - name: K2_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -32}
+        - {x: 13, y: -32}
+        - {x: 20, y: -22}
+        - {x: 20, y: -1}
+        - {x: 10, y: 19}
+        - {x: -20, y: 19}
+        - {x: -20, y: -32}
+        - {x: -3, y: -32}
+        - {x: -1, y: -28}
+        - {x: -1, y: -24}
+        - {x: 1, y: -28}
+    - name: K2_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19}
+        - {x: -27, y: 7}
+        - {x: -27, y: -24}
+        - {x: -17, y: -32}
+        - {x: 20, y: -32}
+        - {x: 27, y: -23}
+        - {x: 27, y: 10}
+        - {x: 13, y: 19}
+    - name: K2_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: -32}
+        - {x: 11, y: -32}
+        - {x: 17, y: -30}
+        - {x: 26, y: -7}
+        - {x: 26, y: 17}
+        - {x: 22, y: 19}
+        - {x: -26, y: 19}
+        - {x: -26, y: -23}
+        - {x: -24, y: -32}
+        - {x: -3, y: -32}
+        - {x: -1, y: -28}
+        - {x: -1, y: -24}
+    - name: K2_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -32}
+        - {x: 11, y: -32}
+        - {x: 17, y: -31}
+        - {x: 19, y: -21}
+        - {x: 19, y: -1}
+        - {x: 14, y: 17}
+        - {x: 9, y: 19}
+        - {x: -11, y: 19}
+        - {x: -19, y: -3}
+        - {x: -19, y: -26}
+        - {x: -17, y: -31}
+        - {x: -12, y: -32}
+        - {x: -3, y: -32}
+        - {x: -1, y: -28}
+        - {x: -1, y: -24}
+        - {x: 1, y: -28}
+    - name: K2_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19}
+        - {x: -13, y: 12}
+        - {x: -13, y: -27}
+        - {x: -9, y: -32}
+        - {x: 6, y: -32}
+        - {x: 11, y: -31}
+        - {x: 11, y: 18}
+        - {x: 9, y: 19}
+    - name: K2_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 19}
+        - {x: -9, y: 19}
+        - {x: -14, y: 12}
+        - {x: -14, y: -16}
+        - {x: -10, y: -28}
+        - {x: -8, y: -32}
+        - {x: 12, y: -32}
+        - {x: 13, y: -28}
+        - {x: 13, y: 13}
+        - {x: 12, y: 17}
+    - name: K2_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 19}
+        - {x: -13, y: 17}
+        - {x: -13, y: -21}
+        - {x: -12, y: -29}
+        - {x: -9, y: -32}
+        - {x: 10, y: -32}
+        - {x: 12, y: -30}
+        - {x: 12, y: 16}
+        - {x: 6, y: 19}
+    - name: K2_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 15}
+        - {x: 7, y: 19}
+        - {x: -16, y: 19}
+        - {x: -16, y: -32}
+        - {x: 9, y: -32}
+        - {x: 14, y: -28}
+        - {x: 14, y: 4}
+        - {x: 12, y: 12}
+    - name: K2_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 19}
+        - {x: -21, y: 12}
+        - {x: -21, y: -14}
+        - {x: -14, y: -30}
+        - {x: -10, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 19}
+    - name: K2_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19}
+        - {x: -18, y: 17}
+        - {x: -21, y: 13}
+        - {x: -21, y: -18}
+        - {x: -18, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 19}
+    - name: K2_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19}
+        - {x: -18, y: 2}
+        - {x: -18, y: -15}
+        - {x: -13, y: -30}
+        - {x: -9, y: -32}
+        - {x: 9, y: -32}
+        - {x: 14, y: -29}
+        - {x: 14, y: 17}
+        - {x: 10, y: 19}
+    - name: K2_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 18}
+        - {x: -12, y: 18}
+        - {x: -15, y: 17}
+        - {x: -17, y: 10}
+        - {x: -17, y: -26}
+        - {x: -11, y: -32}
+        - {x: 12, y: -32}
+        - {x: 15, y: -30}
+        - {x: 17, y: -27}
+        - {x: 17, y: 0}
+    - name: K2_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 17}
+        - {x: -13, y: 14}
+        - {x: -14, y: 5}
+        - {x: -14, y: -26}
+        - {x: -11, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 14}
+        - {x: 9, y: 17}
+    - name: K2_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 18}
+        - {x: -9, y: 18}
+        - {x: -10, y: 14}
+        - {x: -12, y: 10}
+        - {x: -12, y: -1}
+        - {x: -11, y: -10}
+        - {x: -11, y: -27}
+        - {x: -6, y: -30}
+        - {x: -2, y: -32}
+        - {x: 9, y: -32}
+        - {x: 11, y: -30}
+        - {x: 14, y: -26}
+        - {x: 14, y: 16}
+    - name: K2_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 18}
+        - {x: -12, y: 13}
+        - {x: -12, y: -19}
+        - {x: -8, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 11}
+        - {x: 9, y: 18}
+    - name: K2_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 17}
+        - {x: -11, y: 12}
+        - {x: -11, y: -24}
+        - {x: -9, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 12}
+        - {x: 10, y: 17}
+    - name: K2_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 17}
+        - {x: -11, y: 15}
+        - {x: -11, y: -23}
+        - {x: -9, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 17}
+    - name: K2_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 17}
+        - {x: -11, y: 12}
+        - {x: -11, y: -24}
+        - {x: -9, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 12}
+        - {x: 10, y: 17}
+    - name: K2_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 18}
+        - {x: -12, y: 13}
+        - {x: -12, y: -19}
+        - {x: -8, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 11}
+        - {x: 9, y: 18}
+    - name: K2_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 19}
+        - {x: -11, y: 17}
+        - {x: -11, y: -32}
+        - {x: 9, y: -32}
+        - {x: 13, y: -31}
+        - {x: 13, y: 18}
+        - {x: 8, y: 19}
+    - name: K2_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 19}
+        - {x: -7, y: 19}
+        - {x: -13, y: 17}
+        - {x: -15, y: -1}
+        - {x: -15, y: -23}
+        - {x: -12, y: -29}
+        - {x: -6, y: -32}
+        - {x: 10, y: -32}
+        - {x: 14, y: -24}
+        - {x: 14, y: 6}
+        - {x: 12, y: 15}
+    - name: K2_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -15, y: 9}
+        - {x: -15, y: -32}
+        - {x: 9, y: -32}
+        - {x: 16, y: -22}
+        - {x: 16, y: 2}
+        - {x: 10, y: 19}
+    - name: K2_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 19}
+        - {x: -8, y: 19}
+        - {x: -12, y: 14}
+        - {x: -12, y: -29}
+        - {x: -5, y: -32}
+        - {x: 12, y: -32}
+        - {x: 17, y: -16}
+        - {x: 17, y: -3}
+        - {x: 14, y: 17}
+    - name: K2_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 19}
+        - {x: -19, y: 7}
+        - {x: -19, y: -20}
+        - {x: -10, y: -31}
+        - {x: -1, y: -32}
+        - {x: 11, y: -32}
+        - {x: 12, y: -30}
+        - {x: 12, y: 17}
+        - {x: 8, y: 19}
+    - name: K2_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 19}
+        - {x: -22, y: 10}
+        - {x: -22, y: -23}
+        - {x: -14, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 19}
+    - name: K2_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 19}
+        - {x: -19, y: 7}
+        - {x: -19, y: -20}
+        - {x: -10, y: -31}
+        - {x: -1, y: -32}
+        - {x: 11, y: -32}
+        - {x: 12, y: -30}
+        - {x: 12, y: 17}
+        - {x: 8, y: 19}
+    - name: K2_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 19}
+        - {x: -8, y: 19}
+        - {x: -12, y: 14}
+        - {x: -12, y: -32}
+        - {x: 12, y: -32}
+        - {x: 17, y: -12}
+        - {x: 17, y: -1}
+        - {x: 14, y: 17}
+    - name: K2_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -32}
+        - {x: 14, y: -32}
+        - {x: 17, y: -26}
+        - {x: 17, y: 3}
+        - {x: 14, y: 17}
+        - {x: 8, y: 19}
+        - {x: -12, y: 19}
+        - {x: -17, y: 15}
+        - {x: -17, y: -32}
+        - {x: -3, y: -32}
+        - {x: -1, y: -28}
+        - {x: -1, y: -24}
+        - {x: 1, y: -28}
+    - name: K2_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 19}
+        - {x: -15, y: 10}
+        - {x: -15, y: -25}
+        - {x: -11, y: -31}
+        - {x: 13, y: -31}
+        - {x: 13, y: 19}
+    - name: K2_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 19}
+        - {x: -13, y: -31}
+        - {x: 11, y: -31}
+        - {x: 13, y: -29}
+        - {x: 13, y: 17}
+        - {x: 8, y: 19}
+    - name: K2_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -16, y: 8}
+        - {x: -16, y: -16}
+        - {x: -11, y: -30}
+        - {x: -7, y: -31}
+        - {x: 10, y: -31}
+        - {x: 13, y: -30}
+        - {x: 13, y: 19}
+    - name: K2_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 18}
+        - {x: -13, y: -20}
+        - {x: -12, y: -27}
+        - {x: -4, y: -31}
+        - {x: 9, y: -31}
+        - {x: 13, y: -30}
+        - {x: 13, y: 12}
+        - {x: 11, y: 18}
+    - name: K2_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 16}
+        - {x: 12, y: 18}
+        - {x: -11, y: 18}
+        - {x: -13, y: 17}
+        - {x: -13, y: -30}
+        - {x: -9, y: -31}
+        - {x: 12, y: -31}
+        - {x: 12, y: -25}
+        - {x: 13, y: -11}
+    - name: K2_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 18}
+        - {x: -13, y: -20}
+        - {x: -12, y: -27}
+        - {x: -4, y: -31}
+        - {x: 9, y: -31}
+        - {x: 13, y: -30}
+        - {x: 13, y: 12}
+        - {x: 11, y: 18}
+    - name: K2_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -16, y: 8}
+        - {x: -16, y: -16}
+        - {x: -11, y: -30}
+        - {x: -7, y: -31}
+        - {x: 10, y: -31}
+        - {x: 13, y: -30}
+        - {x: 13, y: 19}
+    - name: K2_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19}
+        - {x: -13, y: 12}
+        - {x: -13, y: -27}
+        - {x: -9, y: -32}
+        - {x: 6, y: -32}
+        - {x: 11, y: -31}
+        - {x: 11, y: 18}
+        - {x: 9, y: 19}
+    - name: K2_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 19}
+        - {x: -9, y: 19}
+        - {x: -14, y: 18}
+        - {x: -14, y: -32}
+        - {x: 10, y: -32}
+        - {x: 15, y: -26}
+        - {x: 15, y: 3}
+        - {x: 12, y: 12}
+    - name: K2_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 19}
+        - {x: -14, y: 19}
+        - {x: -16, y: 18}
+        - {x: -16, y: -32}
+        - {x: 12, y: -32}
+        - {x: 15, y: -22}
+        - {x: 15, y: -1}
+        - {x: 13, y: 17}
+    - name: K2_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 19}
+        - {x: -13, y: 17}
+        - {x: -17, y: 4}
+        - {x: -17, y: -20}
+        - {x: -11, y: -32}
+        - {x: 1, y: -32}
+        - {x: 12, y: -30}
+        - {x: 12, y: 12}
+        - {x: 7, y: 19}
+    - name: K2_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 19}
+        - {x: -12, y: 16}
+        - {x: -12, y: -32}
+        - {x: 7, y: -32}
+        - {x: 13, y: -30}
+        - {x: 19, y: -15}
+        - {x: 19, y: -3}
+        - {x: 12, y: 19}
+    - name: K2_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -12, y: 14}
+        - {x: -12, y: -32}
+        - {x: 13, y: -32}
+        - {x: 22, y: -24}
+        - {x: 22, y: 6}
+        - {x: 11, y: 19}
+    - name: K2_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 19}
+        - {x: -12, y: 16}
+        - {x: -12, y: -32}
+        - {x: 7, y: -32}
+        - {x: 13, y: -30}
+        - {x: 19, y: -15}
+        - {x: 19, y: -3}
+        - {x: 12, y: 19}
+    - name: K2_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 19}
+        - {x: -17, y: 4}
+        - {x: -17, y: -16}
+        - {x: -11, y: -32}
+        - {x: 2, y: -32}
+        - {x: 12, y: -30}
+        - {x: 12, y: 15}
+        - {x: 11, y: 19}
+    - name: K2_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 19}
+        - {x: -17, y: -31}
+        - {x: 14, y: -31}
+        - {x: 17, y: -27}
+        - {x: 17, y: 3}
+        - {x: 12, y: 19}
+    - name: K2_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 19}
+        - {x: -12, y: 19}
+        - {x: -15, y: 18}
+        - {x: -17, y: 11}
+        - {x: -17, y: -25}
+        - {x: -11, y: -31}
+        - {x: 12, y: -31}
+        - {x: 15, y: -29}
+        - {x: 17, y: -26}
+        - {x: 17, y: 1}
+    - name: K2_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 19}
+        - {x: -17, y: 13}
+        - {x: -17, y: -25}
+        - {x: -7, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 17}
+        - {x: 13, y: 19}
+    - name: K2_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 18}
+        - {x: -15, y: 17}
+        - {x: -17, y: 6}
+        - {x: -17, y: -23}
+        - {x: -6, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -24}
+        - {x: 16, y: 1}
+        - {x: 11, y: 18}
+    - name: K2_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 19}
+        - {x: -17, y: -23}
+        - {x: -14, y: -28}
+        - {x: -5, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 17}
+        - {x: 14, y: 19}
+    - name: K2_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 19}
+        - {x: -16, y: 18}
+        - {x: -17, y: 11}
+        - {x: -17, y: -23}
+        - {x: -11, y: -31}
+        - {x: 17, y: -31}
+        - {x: 17, y: 19}
+    - name: K2_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 19}
+        - {x: -17, y: 12}
+        - {x: -17, y: -27}
+        - {x: -11, y: -32}
+        - {x: 2, y: -32}
+        - {x: 16, y: -30}
+        - {x: 17, y: -23}
+        - {x: 17, y: 19}
+    - name: K2_67
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 18}
+        - {x: -14, y: 16}
+        - {x: -16, y: 9}
+        - {x: -16, y: -19}
+        - {x: -12, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 18}
+    - name: K2_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 19}
+        - {x: -7, y: 19}
+        - {x: -14, y: 17}
+        - {x: -17, y: 1}
+        - {x: -17, y: -14}
+        - {x: -15, y: -24}
+        - {x: -10, y: -32}
+        - {x: 9, y: -32}
+        - {x: 17, y: -21}
+        - {x: 17, y: -4}
+        - {x: 14, y: 13}
+    - name: K2_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 19}
+        - {x: -11, y: 17}
+        - {x: -11, y: -32}
+        - {x: 9, y: -32}
+        - {x: 13, y: -31}
+        - {x: 13, y: 18}
+        - {x: 8, y: 19}
+    - name: K2_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 18}
+        - {x: -8, y: 18}
+        - {x: -13, y: 12}
+        - {x: -11, y: -3}
+        - {x: -9, y: -13}
+        - {x: -15, y: -21}
+        - {x: -15, y: -26}
+        - {x: -13, y: -31}
+        - {x: -8, y: -32}
+        - {x: 12, y: -32}
+        - {x: 14, y: -28}
+        - {x: 14, y: 16}
+    - name: K2_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 19}
+        - {x: -13, y: 16}
+        - {x: -13, y: -31}
+        - {x: 9, y: -31}
+        - {x: 13, y: -30}
+        - {x: 13, y: 19}
+    - name: K2_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 19}
+        - {x: -11, y: 15}
+        - {x: -11, y: -21}
+        - {x: -6, y: -31}
+        - {x: 8, y: -31}
+        - {x: 15, y: -26}
+        - {x: 15, y: 11}
+        - {x: 13, y: 19}
+    - name: K2_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 19}
+        - {x: -12, y: 14}
+        - {x: -12, y: -31}
+        - {x: -9, y: -32}
+        - {x: 11, y: -32}
+        - {x: 16, y: -23}
+        - {x: 16, y: 15}
+        - {x: 7, y: 19}
+    - name: K2_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 16}
+        - {x: 7, y: 18}
+        - {x: -8, y: 18}
+        - {x: -14, y: 12}
+        - {x: -14, y: -32}
+        - {x: 9, y: -32}
+        - {x: 18, y: -20}
+        - {x: 18, y: -13}
+    - name: K2_75
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 19}
+        - {x: -8, y: 19}
+        - {x: -11, y: 15}
+        - {x: -11, y: -19}
+        - {x: -10, y: -30}
+        - {x: -10, y: -32}
+        - {x: 5, y: -32}
+        - {x: 11, y: -31}
+        - {x: 16, y: -21}
+        - {x: 16, y: -5}
+        - {x: 14, y: 17}
+    - name: K2_76
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 19}
+        - {x: -11, y: 19}
+        - {x: -11, y: -21}
+        - {x: -9, y: -32}
+        - {x: 6, y: -32}
+        - {x: 14, y: -27}
+        - {x: 15, y: -19}
+        - {x: 15, y: 10}
+        - {x: 14, y: 17}
+    - name: K2_77
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19}
+        - {x: -11, y: -32}
+        - {x: 10, y: -32}
+        - {x: 14, y: -22}
+        - {x: 14, y: 12}
+        - {x: 11, y: 19}
+    - name: K2_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -32}
+        - {x: 14, y: -32}
+        - {x: 17, y: -26}
+        - {x: 17, y: 3}
+        - {x: 14, y: 17}
+        - {x: 8, y: 19}
+        - {x: -12, y: 19}
+        - {x: -17, y: 15}
+        - {x: -17, y: -32}
+        - {x: -3, y: -32}
+        - {x: -1, y: -28}
+        - {x: -1, y: -24}
+        - {x: 1, y: -28}
+    - name: K2_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 19}
+        - {x: -10, y: 19}
+        - {x: -14, y: 17}
+        - {x: -17, y: -1}
+        - {x: -17, y: -23}
+        - {x: -12, y: -32}
+        - {x: 14, y: -32}
+        - {x: 16, y: -26}
+        - {x: 17, y: -21}
+        - {x: 17, y: 2}
+    - name: K2_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 19}
+        - {x: -14, y: 19}
+        - {x: -17, y: 18}
+        - {x: -17, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -31}
+        - {x: 17, y: -24}
+        - {x: 17, y: 3}
+        - {x: 14, y: 17}
+    - name: K2_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 18}
+        - {x: -16, y: 18}
+        - {x: -16, y: -26}
+        - {x: -13, y: -32}
+        - {x: 14, y: -32}
+        - {x: 17, y: -24}
+        - {x: 17, y: 4}
+        - {x: 11, y: 14}
+    - name: K2_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 19}
+        - {x: -10, y: 19}
+        - {x: -14, y: 13}
+        - {x: -17, y: -7}
+        - {x: -17, y: -22}
+        - {x: -12, y: -32}
+        - {x: 15, y: -32}
+        - {x: 17, y: -24}
+        - {x: 17, y: 8}
+        - {x: 14, y: 17}
+    - name: K2_83
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 19}
+        - {x: -13, y: 19}
+        - {x: -17, y: 16}
+        - {x: -17, y: -32}
+        - {x: 12, y: -32}
+        - {x: 17, y: -25}
+        - {x: 17, y: 4}
+        - {x: 14, y: 17}
+    - name: K2_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 19}
+        - {x: -14, y: 19}
+        - {x: -17, y: 16}
+        - {x: -17, y: -32}
+        - {x: 14, y: -32}
+        - {x: 17, y: -26}
+        - {x: 17, y: 14}
+    - name: K2_85
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 18}
+        - {x: -17, y: 5}
+        - {x: -17, y: -24}
+        - {x: -14, y: -31}
+        - {x: -13, y: -32}
+        - {x: 9, y: -32}
+        - {x: 16, y: -26}
+        - {x: 16, y: 13}
+        - {x: 8, y: 18}
+    - name: K2_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -13, y: 13}
+        - {x: -17, y: 2}
+        - {x: -17, y: -20}
+        - {x: -14, y: -32}
+        - {x: 11, y: -32}
+        - {x: 17, y: -27}
+        - {x: 17, y: 15}
+        - {x: 7, y: 19}
+    - name: K2_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19}
+        - {x: -13, y: 12}
+        - {x: -13, y: -27}
+        - {x: -9, y: -32}
+        - {x: 6, y: -32}
+        - {x: 11, y: -31}
+        - {x: 11, y: 18}
+        - {x: 9, y: 19}
+    - name: K2_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 18}
+        - {x: -14, y: 15}
+        - {x: -14, y: -32}
+        - {x: 12, y: -32}
+        - {x: 15, y: -28}
+        - {x: 15, y: 14}
+        - {x: 7, y: 18}
+    - name: K2_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 19}
+        - {x: -13, y: -30}
+        - {x: -10, y: -31}
+        - {x: 13, y: -31}
+        - {x: 13, y: 16}
+        - {x: 7, y: 19}
+    - name: K2_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 19}
+        - {x: -15, y: -31}
+        - {x: 9, y: -31}
+        - {x: 11, y: -21}
+        - {x: 11, y: 17}
+        - {x: 6, y: 19}
+    - name: K2_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 19}
+        - {x: -13, y: 19}
+        - {x: -16, y: 18}
+        - {x: -16, y: -32}
+        - {x: 8, y: -32}
+        - {x: 12, y: -28}
+        - {x: 12, y: 17}
+    - name: K2_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 18}
+        - {x: -11, y: 18}
+        - {x: -18, y: 0}
+        - {x: -18, y: -26}
+        - {x: -15, y: -32}
+        - {x: 12, y: -32}
+        - {x: 14, y: -20}
+        - {x: 14, y: 5}
+        - {x: 13, y: 15}
+    - name: K2_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 19}
+        - {x: -13, y: 16}
+        - {x: -16, y: -4}
+        - {x: -16, y: -23}
+        - {x: -9, y: -32}
+        - {x: 7, y: -32}
+        - {x: 11, y: -31}
+        - {x: 11, y: 17}
+        - {x: 5, y: 19}
+    - name: K2_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19}
+        - {x: -15, y: 6}
+        - {x: -15, y: -24}
+        - {x: -8, y: -32}
+        - {x: 5, y: -32}
+        - {x: 11, y: -22}
+        - {x: 11, y: 18}
+        - {x: 9, y: 19}
+    - name: K2_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 19}
+        - {x: -14, y: -32}
+        - {x: 9, y: -32}
+        - {x: 11, y: -31}
+        - {x: 11, y: 17}
+        - {x: 6, y: 19}
+    - name: K2_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 18}
+        - {x: -16, y: 17}
+        - {x: -17, y: 3}
+        - {x: -17, y: -31}
+        - {x: -13, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 15}
+        - {x: 14, y: 18}
+    - name: K2_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 17}
+        - {x: -15, y: 10}
+        - {x: -15, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 17}
+    - name: K2_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 17}
+        - {x: -9, y: 17}
+        - {x: -14, y: 11}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: -7}
+        - {x: 12, y: 11}
+    - name: K2_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 18}
+        - {x: -15, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 14}
+        - {x: 13, y: 18}
+    - name: K2_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 18}
+        - {x: -14, y: 17}
+        - {x: -16, y: 11}
+        - {x: -16, y: -29}
+        - {x: -13, y: -32}
+        - {x: 21, y: -32}
+        - {x: 24, y: -18}
+        - {x: 24, y: 9}
+        - {x: 15, y: 18}
+    - name: K2_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 18}
+        - {x: -16, y: 5}
+        - {x: -16, y: -32}
+        - {x: 17, y: -32}
+        - {x: 27, y: -12}
+        - {x: 27, y: 4}
+        - {x: 14, y: 18}
+    - name: K2_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 19}
+        - {x: -11, y: 17}
+        - {x: -11, y: -32}
+        - {x: 9, y: -32}
+        - {x: 13, y: -31}
+        - {x: 13, y: 18}
+        - {x: 8, y: 19}
+    - name: K2_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 17}
+        - {x: -14, y: 10}
+        - {x: -17, y: -1}
+        - {x: -17, y: -28}
+        - {x: -16, y: -31}
+        - {x: -4, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 15}
+        - {x: 4, y: 17}
+    - name: K2_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 19}
+        - {x: -14, y: -32}
+        - {x: 10, y: -32}
+        - {x: 14, y: -26}
+        - {x: 14, y: 16}
+        - {x: 6, y: 19}
+    - name: K2_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 15}
+        - {x: 5, y: 19}
+        - {x: -13, y: 19}
+        - {x: -16, y: 13}
+        - {x: -23, y: -6}
+        - {x: -23, y: -27}
+        - {x: -14, y: -32}
+        - {x: 14, y: -32}
+        - {x: 15, y: -26}
+        - {x: 15, y: 8}
+    - name: K2_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 18}
+        - {x: 2, y: 19}
+        - {x: -20, y: 19}
+        - {x: -26, y: 17}
+        - {x: -26, y: -16}
+        - {x: -21, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: -4}
+        - {x: 9, y: 12}
+    - name: K2_107
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 19}
+        - {x: -14, y: 19}
+        - {x: -23, y: 6}
+        - {x: -23, y: -3}
+        - {x: -21, y: -6}
+        - {x: -12, y: -31}
+        - {x: -4, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: -1}
+    - name: K2_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -32}
+        - {x: 14, y: -32}
+        - {x: 17, y: -26}
+        - {x: 17, y: 3}
+        - {x: 14, y: 17}
+        - {x: 8, y: 19}
+        - {x: -12, y: 19}
+        - {x: -17, y: 15}
+        - {x: -17, y: -32}
+        - {x: -3, y: -32}
+        - {x: -1, y: -28}
+        - {x: -1, y: -24}
+        - {x: 1, y: -28}
+    - name: K2_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 19}
+        - {x: -10, y: 19}
+        - {x: -15, y: 17}
+        - {x: -15, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 1}
+        - {x: 14, y: 16}
+    - name: K2_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 17}
+        - {x: -15, y: 11}
+        - {x: -15, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 12}
+        - {x: 10, y: 17}
+    - name: K2_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 18}
+        - {x: -14, y: 17}
+        - {x: -14, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -31}
+        - {x: 16, y: 3}
+        - {x: 14, y: 18}
+    - name: K2_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 15}
+        - {x: 16, y: 19}
+        - {x: -5, y: 19}
+        - {x: -14, y: 15}
+        - {x: -14, y: -30}
+        - {x: -13, y: -32}
+        - {x: 8, y: -32}
+        - {x: 18, y: -30}
+        - {x: 25, y: -20}
+        - {x: 25, y: -2}
+    - name: K2_113
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 19}
+        - {x: -15, y: 5}
+        - {x: -15, y: -32}
+        - {x: 9, y: -32}
+        - {x: 18, y: -30}
+        - {x: 28, y: -21}
+        - {x: 28, y: 0}
+        - {x: 18, y: 19}
+    - name: K2_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19}
+        - {x: -13, y: 12}
+        - {x: -13, y: -27}
+        - {x: -9, y: -32}
+        - {x: 6, y: -32}
+        - {x: 11, y: -31}
+        - {x: 11, y: 18}
+        - {x: 9, y: 19}
+    - name: K2_115
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 17}
+        - {x: -7, y: 17}
+        - {x: -12, y: 16}
+        - {x: -12, y: -31}
+        - {x: -11, y: -32}
+        - {x: 11, y: -32}
+        - {x: 17, y: -27}
+        - {x: 17, y: 4}
+        - {x: 14, y: 14}
+    - name: K2_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 19}
+        - {x: -14, y: 7}
+        - {x: -14, y: -29}
+        - {x: -13, y: -31}
+        - {x: -11, y: -32}
+        - {x: 12, y: -32}
+        - {x: 14, y: -28}
+        - {x: 14, y: 10}
+        - {x: 12, y: 19}
+    - name: K2_117
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 19}
+        - {x: -9, y: 15}
+        - {x: -15, y: -11}
+        - {x: -15, y: -21}
+        - {x: -9, y: -32}
+        - {x: 18, y: -32}
+        - {x: 23, y: -25}
+        - {x: 23, y: -3}
+        - {x: 11, y: 19}
+    - name: K2_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 19}
+        - {x: -14, y: -2}
+        - {x: -14, y: -26}
+        - {x: -11, y: -30}
+        - {x: -9, y: -32}
+        - {x: 26, y: -32}
+        - {x: 26, y: 19}
+    - name: K2_119
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 19}
+        - {x: -14, y: -32}
+        - {x: 14, y: -32}
+        - {x: 23, y: -20}
+        - {x: 23, y: 8}
+        - {x: 12, y: 19}
+    - name: K2_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 18}
+        - {x: -13, y: 18}
+        - {x: -16, y: 17}
+        - {x: -18, y: 10}
+        - {x: -18, y: -26}
+        - {x: -12, y: -32}
+        - {x: 11, y: -32}
+        - {x: 14, y: -30}
+        - {x: 16, y: -27}
+        - {x: 16, y: 0}
+    - name: K2_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 17}
+        - {x: -15, y: 17}
+        - {x: -15, y: -31}
+        - {x: -13, y: -32}
+        - {x: 12, y: -32}
+        - {x: 15, y: -28}
+        - {x: 15, y: 1}
+        - {x: 14, y: 7}
+    - name: K2_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 18}
+        - {x: -13, y: 10}
+        - {x: -13, y: -9}
+        - {x: -12, y: -27}
+        - {x: -9, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: 16}
+        - {x: 8, y: 18}
+    - name: K2_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 18}
+        - {x: -14, y: -10}
+        - {x: -12, y: -26}
+        - {x: -5, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 18}
+    - name: K2_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 18}
+        - {x: -14, y: -31}
+        - {x: -12, y: -32}
+        - {x: 13, y: -32}
+        - {x: 17, y: -18}
+        - {x: 17, y: 15}
+        - {x: 12, y: 18}
+    - name: K2_125
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 18}
+        - {x: -10, y: 18}
+        - {x: -14, y: 11}
+        - {x: -14, y: -3}
+        - {x: -11, y: -25}
+        - {x: -4, y: -32}
+        - {x: 14, y: -32}
+        - {x: 15, y: -21}
+        - {x: 15, y: 17}
+    - name: K2_126
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 18}
+        - {x: -9, y: 17}
+        - {x: -12, y: 14}
+        - {x: -14, y: 11}
+        - {x: -14, y: -3}
+        - {x: -11, y: -25}
+        - {x: -4, y: -32}
+        - {x: 14, y: -32}
+        - {x: 16, y: -28}
+        - {x: 16, y: 11}
+        - {x: 10, y: 18}
+    - name: K2_127
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 18}
+        - {x: -14, y: 15}
+        - {x: -14, y: -15}
+        - {x: -8, y: -32}
+        - {x: 13, y: -32}
+        - {x: 17, y: -16}
+        - {x: 17, y: 2}
+        - {x: 8, y: 18}
+    - name: K2_128
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 18}
+        - {x: -11, y: 18}
+        - {x: -14, y: 14}
+        - {x: -14, y: -9}
+        - {x: -11, y: -25}
+        - {x: -5, y: -32}
+        - {x: 15, y: -32}
+        - {x: 18, y: -28}
+        - {x: 18, y: 11}
+        - {x: 16, y: 14}
+    - name: K2_129
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 18}
+        - {x: -9, y: 18}
+        - {x: -14, y: 12}
+        - {x: -14, y: -9}
+        - {x: -11, y: -25}
+        - {x: -4, y: -32}
+        - {x: 13, y: -32}
+        - {x: 17, y: -24}
+        - {x: 17, y: 4}
+        - {x: 12, y: 12}
+    - name: K2_130
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 18}
+        - {x: -14, y: -10}
+        - {x: -12, y: -26}
+        - {x: -5, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 18}
+    - name: K2_131
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 18}
+        - {x: -14, y: 12}
+        - {x: -14, y: -9}
+        - {x: -11, y: -25}
+        - {x: -4, y: -32}
+        - {x: 9, y: -32}
+        - {x: 12, y: -27}
+        - {x: 12, y: 11}
+        - {x: 10, y: 18}
+    - name: K2_132
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 18}
+        - {x: -14, y: -10}
+        - {x: -12, y: -26}
+        - {x: -5, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 18}
+    - name: K2_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 19}
+        - {x: -10, y: 17}
+        - {x: -10, y: -32}
+        - {x: 10, y: -32}
+        - {x: 14, y: -31}
+        - {x: 14, y: 18}
+        - {x: 9, y: 19}
+    - name: K2_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 19}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 19}
+    - name: K2_135
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: -19}
+        - {x: -11, y: -29}
+        - {x: -9, y: -32}
+        - {x: 11, y: -32}
+        - {x: 17, y: -26}
+        - {x: 17, y: 15}
+        - {x: 15, y: 19}
+        - {x: -7, y: 19}
+        - {x: -13, y: 17}
+        - {x: -19, y: -6}
+    - name: K2_136
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 19}
+        - {x: -21, y: 3}
+        - {x: -21, y: -24}
+        - {x: -9, y: -31}
+        - {x: -3, y: -32}
+        - {x: 13, y: -32}
+        - {x: 18, y: -16}
+        - {x: 18, y: 0}
+        - {x: 11, y: 19}
+    - name: K2_137
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 19}
+        - {x: -13, y: 18}
+        - {x: -21, y: -2}
+        - {x: -21, y: -13}
+        - {x: -12, y: -32}
+        - {x: 18, y: -32}
+        - {x: 18, y: 16}
+        - {x: 9, y: 19}
+    - name: K2_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -13, y: 18}
+        - {x: -22, y: 9}
+        - {x: -22, y: -11}
+        - {x: -11, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 19}
+    - name: K2_139
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 19}
+        - {x: -12, y: 19}
+        - {x: -22, y: 8}
+        - {x: -22, y: -23}
+        - {x: -10, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 17}
+    - name: K2_140
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 19}
+        - {x: -21, y: 4}
+        - {x: -21, y: -5}
+        - {x: -20, y: -8}
+        - {x: -9, y: -32}
+        - {x: 15, y: -32}
+        - {x: 19, y: -21}
+        - {x: 19, y: 11}
+        - {x: 9, y: 19}
+    - name: K2_141
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 19}
+        - {x: -11, y: 17}
+        - {x: -21, y: 5}
+        - {x: -21, y: -8}
+        - {x: -12, y: -29}
+        - {x: -6, y: -32}
+        - {x: 17, y: -32}
+        - {x: 21, y: -22}
+        - {x: 21, y: 11}
+        - {x: 12, y: 19}
+    - name: K2_142
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 19}
+        - {x: -13, y: 18}
+        - {x: -21, y: -2}
+        - {x: -21, y: -13}
+        - {x: -12, y: -32}
+        - {x: 18, y: -32}
+        - {x: 18, y: 16}
+        - {x: 9, y: 19}
+    - name: K2_143
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 19}
+        - {x: -12, y: 19}
+        - {x: -21, y: 8}
+        - {x: -21, y: -11}
+        - {x: -9, y: -31}
+        - {x: -7, y: -32}
+        - {x: 14, y: -32}
+        - {x: 17, y: -22}
+        - {x: 17, y: 6}
+        - {x: 13, y: 15}
+    - name: K2_144
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 15}
+        - {x: 9, y: 19}
+        - {x: -7, y: 19}
+        - {x: -13, y: 18}
+        - {x: -21, y: 9}
+        - {x: -21, y: -18}
+        - {x: -14, y: -32}
+        - {x: 10, y: -32}
+        - {x: 13, y: -30}
+        - {x: 13, y: 12}
+    - name: K2_145
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 19}
+        - {x: -12, y: 19}
+        - {x: -21, y: 8}
+        - {x: -21, y: -11}
+        - {x: -9, y: -31}
+        - {x: -7, y: -32}
+        - {x: 14, y: -32}
+        - {x: 17, y: -22}
+        - {x: 17, y: 6}
+        - {x: 13, y: 15}
+    - name: K2_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -26}
+        - {x: 16, y: 3}
+        - {x: 13, y: 17}
+        - {x: 7, y: 19}
+        - {x: -13, y: 19}
+        - {x: -18, y: 15}
+        - {x: -18, y: -32}
+        - {x: -4, y: -32}
+        - {x: -2, y: -28}
+        - {x: -2, y: -24}
+        - {x: 0, y: -28}
+    - name: K2_147
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 19}
+        - {x: -13, y: 19}
+        - {x: -16, y: 7}
+        - {x: -16, y: -24}
+        - {x: -12, y: -31}
+        - {x: 10, y: -31}
+        - {x: 13, y: -24}
+        - {x: 13, y: 8}
+    - name: K2_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 19}
+        - {x: -16, y: -31}
+        - {x: 8, y: -31}
+        - {x: 12, y: -23}
+        - {x: 12, y: 17}
+        - {x: 7, y: 19}
+    - name: K2_149
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 19}
+        - {x: -16, y: -30}
+        - {x: -11, y: -32}
+        - {x: 6, y: -32}
+        - {x: 10, y: -31}
+        - {x: 12, y: -6}
+        - {x: 12, y: 15}
+        - {x: 9, y: 19}
+    - name: K2_150
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 19}
+        - {x: -14, y: 19}
+        - {x: -15, y: 18}
+        - {x: -15, y: -32}
+        - {x: 8, y: -32}
+        - {x: 9, y: -30}
+        - {x: 12, y: -16}
+        - {x: 12, y: 17}
+    - name: K2_151
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 19}
+        - {x: -11, y: 19}
+        - {x: -15, y: 18}
+        - {x: -15, y: -31}
+        - {x: -9, y: -32}
+        - {x: 8, y: -32}
+        - {x: 9, y: -30}
+        - {x: 12, y: -3}
+        - {x: 12, y: 18}
+    - name: K2_152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 19}
+        - {x: -14, y: 19}
+        - {x: -15, y: 18}
+        - {x: -15, y: -29}
+        - {x: -7, y: -32}
+        - {x: 5, y: -32}
+        - {x: 9, y: -30}
+        - {x: 12, y: -15}
+        - {x: 12, y: 17}
+    - name: K2_153
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 19}
+        - {x: -16, y: 13}
+        - {x: -16, y: -13}
+        - {x: -12, y: -27}
+        - {x: -7, y: -32}
+        - {x: 7, y: -32}
+        - {x: 11, y: -31}
+        - {x: 12, y: -24}
+        - {x: 12, y: 16}
+        - {x: 7, y: 19}
+    - name: K2_154
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 19}
+        - {x: -11, y: 19}
+        - {x: -16, y: 12}
+        - {x: -16, y: -31}
+        - {x: -10, y: -32}
+        - {x: 8, y: -32}
+        - {x: 9, y: -30}
+        - {x: 12, y: -15}
+        - {x: 12, y: 17}
+    - name: K2_155
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 19}
+        - {x: -14, y: 19}
+        - {x: -15, y: 18}
+        - {x: -15, y: -32}
+        - {x: 8, y: -32}
+        - {x: 9, y: -30}
+        - {x: 12, y: -16}
+        - {x: 12, y: 17}
+    - name: K2_156
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 19}
+        - {x: -16, y: -32}
+        - {x: 9, y: -32}
+        - {x: 12, y: -15}
+        - {x: 12, y: 19}
+    - name: K2_157
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -14, y: 16}
+        - {x: -14, y: -29}
+        - {x: -9, y: -32}
+        - {x: 5, y: -32}
+        - {x: 10, y: -31}
+        - {x: 12, y: -6}
+        - {x: 12, y: 14}
+        - {x: 6, y: 19}
+    - name: K2_158
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 19}
+        - {x: -16, y: -32}
+        - {x: 9, y: -32}
+        - {x: 12, y: -15}
+        - {x: 12, y: 19}
+    - name: K2_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 19}
+        - {x: -14, y: 12}
+        - {x: -14, y: -27}
+        - {x: -10, y: -32}
+        - {x: 5, y: -32}
+        - {x: 10, y: -31}
+        - {x: 10, y: 18}
+        - {x: 8, y: 19}
+    - name: K2_160
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 19}
+        - {x: -10, y: 19}
+        - {x: -15, y: 18}
+        - {x: -15, y: -32}
+        - {x: 9, y: -32}
+        - {x: 14, y: -26}
+        - {x: 14, y: 3}
+        - {x: 11, y: 12}
+    - name: K2_161
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19}
+        - {x: -17, y: 18}
+        - {x: -17, y: -21}
+        - {x: -10, y: -32}
+        - {x: 6, y: -32}
+        - {x: 9, y: -31}
+        - {x: 19, y: -16}
+        - {x: 19, y: 1}
+        - {x: 11, y: 19}
+    - name: K2_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 19}
+        - {x: -12, y: 19}
+        - {x: -18, y: 7}
+        - {x: -18, y: -21}
+        - {x: -15, y: -26}
+        - {x: -11, y: -32}
+        - {x: 9, y: -32}
+        - {x: 21, y: -22}
+        - {x: 21, y: 0}
+        - {x: 12, y: 17}
+    - name: K2_163
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 19}
+        - {x: -18, y: -32}
+        - {x: 12, y: -32}
+        - {x: 21, y: -22}
+        - {x: 21, y: 8}
+        - {x: 15, y: 19}
+    - name: K2_164
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 2}
+        - {x: 18, y: 4}
+        - {x: 15, y: 4}
+        - {x: 9, y: 15}
+        - {x: 6, y: 19}
+        - {x: -14, y: 19}
+        - {x: -14, y: -32}
+        - {x: 9, y: -32}
+        - {x: 11, y: -24}
+        - {x: 21, y: -9}
+        - {x: 22, y: -5}
+    - name: K2_165
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 19}
+        - {x: -12, y: 19}
+        - {x: -16, y: 8}
+        - {x: -16, y: -22}
+        - {x: -15, y: -26}
+        - {x: -12, y: -32}
+        - {x: 12, y: -32}
+        - {x: 22, y: -12}
+        - {x: 22, y: 6}
+        - {x: 12, y: 18}
+    - name: K2_166
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 19}
+        - {x: -19, y: 6}
+        - {x: -19, y: -13}
+        - {x: -15, y: -25}
+        - {x: -12, y: -32}
+        - {x: 19, y: -32}
+        - {x: 21, y: -21}
+        - {x: 21, y: 14}
+        - {x: 8, y: 19}
+    - name: K2_167
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 19}
+        - {x: -11, y: 19}
+        - {x: -21, y: 8}
+        - {x: -21, y: -24}
+        - {x: -20, y: -27}
+        - {x: -13, y: -32}
+        - {x: -1, y: -32}
+        - {x: 12, y: -29}
+        - {x: 21, y: -8}
+        - {x: 21, y: 6}
+    - name: K2_168
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 19}
+        - {x: -18, y: -32}
+        - {x: 12, y: -32}
+        - {x: 21, y: -22}
+        - {x: 21, y: 8}
+        - {x: 15, y: 19}
+    - name: K2_169
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 19}
+        - {x: -17, y: -22}
+        - {x: -13, y: -32}
+        - {x: 12, y: -32}
+        - {x: 21, y: -15}
+        - {x: 21, y: 10}
+        - {x: 12, y: 19}
+    - name: K2_170
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 19}
+        - {x: -13, y: -30}
+        - {x: -11, y: -32}
+        - {x: 9, y: -32}
+        - {x: 21, y: -28}
+        - {x: 21, y: 12}
+        - {x: 18, y: 19}
+    - name: K2_171
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 19}
+        - {x: -17, y: -22}
+        - {x: -13, y: -32}
+        - {x: 12, y: -32}
+        - {x: 21, y: -15}
+        - {x: 21, y: 10}
+        - {x: 12, y: 19}
+    - name: K2_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -32}
+        - {x: 14, y: -32}
+        - {x: 17, y: -26}
+        - {x: 17, y: 3}
+        - {x: 14, y: 17}
+        - {x: 8, y: 19}
+        - {x: -12, y: 19}
+        - {x: -17, y: 15}
+        - {x: -17, y: -32}
+        - {x: -3, y: -32}
+        - {x: -1, y: -28}
+        - {x: -1, y: -24}
+        - {x: 1, y: -28}
+    - name: K2_173
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 18}
+        - {x: -16, y: 15}
+        - {x: -16, y: -23}
+        - {x: -9, y: -31}
+        - {x: -3, y: -32}
+        - {x: 14, y: -32}
+        - {x: 19, y: -25}
+        - {x: 19, y: -4}
+        - {x: 13, y: 18}
+    - name: K2_174
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 11}
+        - {x: -9, y: 11}
+        - {x: -15, y: 6}
+        - {x: -15, y: -32}
+        - {x: 14, y: -32}
+        - {x: 19, y: -27}
+        - {x: 19, y: -6}
+        - {x: 16, y: 9}
+    - name: K2_175
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 5}
+        - {x: 9, y: 7}
+        - {x: -8, y: 7}
+        - {x: -12, y: 1}
+        - {x: -15, y: -17}
+        - {x: -15, y: -28}
+        - {x: -13, y: -31}
+        - {x: 18, y: -31}
+        - {x: 19, y: -25}
+        - {x: 19, y: -6}
+    - name: K2_176
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 1}
+        - {x: -15, y: -3}
+        - {x: -15, y: -31}
+        - {x: 20, y: -31}
+        - {x: 20, y: -6}
+        - {x: 15, y: 1}
+    - name: K2_177
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 6}
+        - {x: -16, y: -32}
+        - {x: 16, y: -32}
+        - {x: 22, y: -30}
+        - {x: 22, y: 6}
     outline: []
   spritePackingTag: 
   userData: 

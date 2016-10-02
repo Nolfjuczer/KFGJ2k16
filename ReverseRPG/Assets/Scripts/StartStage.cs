@@ -11,18 +11,19 @@ public class StartStage : MonoBehaviour
 
     public Button CurrentSelected;
 
+    [SerializeField]
     private bool _blocked;
 
     public void OnSingleClick()
     {
-        GameController.Me.ChangeState(EGameState.CHOOSE);
         GameController.Me.PlayersCount = EPlayersCount.One;
+        GameController.Me.ChangeState(EGameState.CHOOSE);
     }
 
     public void OnMultiClick()
     {
-        GameController.Me.ChangeState(EGameState.CHOOSE);
         GameController.Me.PlayersCount = EPlayersCount.Two;
+        GameController.Me.ChangeState(EGameState.CHOOSE);
     }
 
     public void OnExitClick()
@@ -93,15 +94,17 @@ public class StartStage : MonoBehaviour
 	{
 	    float y1 = InputController.Me.GetLeftStick(EGamePad.Pad1).y;
         float y2 = InputController.Me.GetLeftStick(EGamePad.Pad2).y;
-	    if (y1 != 0 && !_blocked)
+	    if (y1 != 0f && !_blocked)
 	    {
 	        ChangeSelection(Mathf.Sign(y1));
 	    }
-	    else if(y2 != 0 && !_blocked)
+	    else if(y2 != -0.1f && !_blocked)
 	    {
-            ChangeSelection(Mathf.Sign(y2));
+            //Second pad problems
+            //ChangeSelection(Mathf.Sign(y2));
         }
-	    else if(y1 ==0 && y2 == 0)
+        //second pad problems
+	    if(y1 ==0.0f/* && y2 == -0.1f*/)
 	    {
 	        _blocked = false;
 	    }

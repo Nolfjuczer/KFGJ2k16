@@ -1,12 +1,15 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEditor.Animations;
 
 public class PlayerController : MonoBehaviour
 {
     public CharacterClass MyClass = new CharacterClass();
     public float SpeedMultiplier;
     public EGamePad PlayerPad;
+    public RuntimeAnimatorController _naked;
 
+    public GameObject AOE;
     public float AttackDelay = 0.3f;
     private float _attackTimer = 0.0f;
     private Vector2 _attackDirection;
@@ -22,6 +25,17 @@ public class PlayerController : MonoBehaviour
     {
         int dmg = 0;
         dmg += MyClass.Strenght;
+        foreach (Weapon weapon in MyClass.Weapons)
+        {
+            dmg += weapon.Attack;
+        }
+        return dmg;
+    }
+
+    public int GetMagicPower()
+    {
+        int dmg = 20;
+        dmg += MyClass.Inteligence;
         foreach (Weapon weapon in MyClass.Weapons)
         {
             dmg += weapon.Attack;
@@ -88,6 +102,27 @@ public class PlayerController : MonoBehaviour
         //    ProcessWalkAnimation(new Vector2(0f, Mathf.Sign(dir.y)));
         _attackTimer = AttackDelay;
         ProcessSpellAnimation();
+        StartCoroutine(SpellEffect());
+        AttackMagic();
+    }
+
+    private void AttackMagic()
+    {
+        RaycastHit2D[] hits = Physics2D.CircleCastAll(gameObject.transform.localPosition, 3.0f, _attackDirection, 0.0f);
+        foreach (RaycastHit2D hit in hits)
+        {
+            if (hit.transform.gameObject.tag == "Enemy" && !hit.collider.isTrigger)
+            {
+                hit.transform.gameObject.GetComponent<Enemy>().Hit(this, true);
+            }
+        }
+    }
+
+    public IEnumerator SpellEffect()
+    {
+        AOE.SetActive(true);
+        yield return new WaitForSeconds(0.5f);
+        AOE.SetActive(false);
     }
 
     public void SpellRight()
@@ -117,7 +152,7 @@ public class PlayerController : MonoBehaviour
         if (_attackTimer > 0.0f) return;
         ProcessAtackAnimation();
         _attackTimer = AttackDelay;
-        RaycastHit2D[] hits = Physics2D.CircleCastAll(gameObject.transform.localPosition, 0.3f, _attackDirection,0.7f);
+        RaycastHit2D[] hits = Physics2D.CircleCastAll(gameObject.transform.localPosition, 0.5f, _attackDirection,1f);
         foreach (RaycastHit2D hit in hits)
         {
             if (hit.transform.gameObject.tag == "Enemy" && !hit.collider.isTrigger)
@@ -222,6 +257,7 @@ public class PlayerController : MonoBehaviour
     public void AffectLevelDecrease()
     {
         MyClass.PossibleSpells -= 1;
+        _myAnimator.runtimeAnimatorController = _naked;
     }
 }
 

@@ -20,13 +20,16 @@ public class Enemy : MonoBehaviour
     private float _distanceToNext;
     private Animator _myAnimator;
 	// Use this for initialization
-	void Start ()
-	{
+
+    void OnEnable()
+    {
         _myAgent = GetComponent<AStar.AStarAgent>();
+        _myAgent.MyGrid = GameController.Me.MainGrid;
         MyState = EEnemyState.Wander;
-	    _myAnimator = GetComponent<Animator>();
+        _myAnimator = GetComponent<Animator>();
         Wander();
-	}
+    }
+
 	
 	// Update is called once per frame
 	void Update ()
@@ -41,11 +44,11 @@ public class Enemy : MonoBehaviour
         if(MyState == EEnemyState.Wander)
         {
             AStar.GridElement destination = _myAgent.MyGrid.Elements[Random.Range(1, _myAgent.MyGrid.GridSize.x),
-                                                                     Random.Range(1, _myAgent.MyGrid.GridSize.x), 0];
+                                                                     Random.Range(1, _myAgent.MyGrid.GridSize.y), 0];
             while (!destination.Walkable)
             {
                 destination = _myAgent.MyGrid.Elements[Random.Range(1, _myAgent.MyGrid.GridSize.x),
-                                                       Random.Range(1, _myAgent.MyGrid.GridSize.x), 0];            
+                                                       Random.Range(1, _myAgent.MyGrid.GridSize.y), 0];            
             }
             _myAgent.TargetObject = destination.transform;            
         }
@@ -213,15 +216,22 @@ public class Enemy : MonoBehaviour
         AttackTrigger.offset = _movementDirection * 0.4f;
     }
 
-    public void Hit(PlayerController player)
+    public void Hit(PlayerController player, bool magic = false)
     {
-        MyStats.HP -= player.GetAttackPower();
-        UIController.Me.UseDamage(gameObject.transform.position, player.GetAttackPower().ToString());
+        if (magic)
+        {
+            MyStats.HP -= player.GetMagicPower();
+            UIController.Me.UseDamage(gameObject.transform.position, player.GetMagicPower().ToString());
+        }
+        else
+        {
+            MyStats.HP -= player.GetAttackPower();
+            UIController.Me.UseDamage(gameObject.transform.position, player.GetAttackPower().ToString());
+        }
         if (MyStats.HP <= 0)
         {
             player.DecreaseExp(MyStats.EXP);
-            //todo pooling
-            gameObject.SetActive(false);
+            StageController.Me.ReturnEnemy(this);
         }
     }
 

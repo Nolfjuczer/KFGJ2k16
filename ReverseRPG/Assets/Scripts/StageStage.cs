@@ -15,7 +15,11 @@ public class StageStage : MonoBehaviour
     {
         ReadyPlayers += x;
         ReadyPlayers = Mathf.Clamp(ReadyPlayers, 0, 2);
-        if (ReadyPlayers == 2)
+        if (GameController.Me.PlayersCount == EPlayersCount.One && ReadyPlayers == 1)
+        {
+            GameController.Me.ChangeState(EGameState.GAME);
+        }
+        else if (GameController.Me.PlayersCount == EPlayersCount.Two && ReadyPlayers == 2)
         {
             GameController.Me.ChangeState(EGameState.GAME);
         }

@@ -11,7 +11,9 @@ public class ChooseStage : MonoBehaviour
     public EClasses Player1Class;
     public EClasses Player2Class;
 
+    [SerializeField]
     private bool _block1;
+    [SerializeField]
     private bool _block2;
 
     private Vector3 left1 = new Vector3(-2.5f,-3f,0f);
@@ -102,7 +104,7 @@ public class ChooseStage : MonoBehaviour
                 }
                 else
                 {
-                    if (x > 0)
+                    if (x > 0.3f)
                     {
                         if (Player2Class == EClasses.Mage)
                         {

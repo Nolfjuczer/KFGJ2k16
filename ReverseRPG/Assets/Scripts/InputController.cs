@@ -123,10 +123,10 @@ public class InputController : Singleton<InputController>
         return false;
     }
 
-    //public void Update()
-    //{
-    //    Debug.Log(GetLeftStick(EGamePad.Pad1));
-    //}
+    public void Update()
+    {
+        //Debug.Log(GetLeftStick(EGamePad.Pad2));
+    }
 }
 
 public enum EGamePad

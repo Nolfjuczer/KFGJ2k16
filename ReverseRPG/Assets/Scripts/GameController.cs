@@ -22,9 +22,9 @@ public class GameController : Singleton<GameController>
 
     public override void Awake()
     {
+        //MainGrid = FindObjectOfType<AStar.Grid>();
         base.Awake();
         GameState = EGameState.START;
-        //MainGrid = FindObjectOfType<AStar.Grid>();
         _firstTime = true;
     }
 
@@ -32,7 +32,6 @@ public class GameController : Singleton<GameController>
     {
         EGameState prevState = GameState;
         GameState = state;
-        UIController.Me.OnGameStateChange();
         switch (GameState)
         {
             case EGameState.START:
@@ -40,6 +39,7 @@ public class GameController : Singleton<GameController>
             case EGameState.CHOOSE:
                 break;
             case EGameState.GAME:
+                StageController.Me.ResetStage();
                 if (prevState != EGameState.CHOOSE)
                 {
                     switch (PlayersCount)
@@ -85,17 +85,19 @@ public class GameController : Singleton<GameController>
                             switch (Player2Class)
                             {
                                 case EClasses.Knight:
-                                    Players[0] = PossibleCharacters[3];
+                                    Players[1] = PossibleCharacters[3];
                                     break;
                                 case EClasses.Mage:
-                                    Players[0] = PossibleCharacters[2];
+                                    Players[1] = PossibleCharacters[2];
                                     break;
                             }
                             break;
                     }
+                    _firstTime = false;
                 }
                 break;
         }
+        UIController.Me.OnGameStateChange();
     }
 
     public void CheckPlayersAlive()
@@ -114,8 +116,7 @@ public class GameController : Singleton<GameController>
 
     public void OnStageOver()
     {
-        Debug.LogError("Stage is Over!!!");
-        //todo handle stage win
+        ChangeState(EGameState.STAGE);
     }
 }
 

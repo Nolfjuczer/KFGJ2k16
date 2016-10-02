@@ -1,0 +1,3708 @@
+fileFormatVersion: 2
+guid: f9cb7ba76fd79d345b7fb212480ea675
+timeCreated: 1475376669
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: E2_0
+    21300002: E2_1
+    21300004: E2_2
+    21300006: E2_3
+    21300008: E2_4
+    21300010: E2_5
+    21300012: E2_6
+    21300014: E2_7
+    21300016: E2_8
+    21300018: E2_9
+    21300020: E2_10
+    21300022: E2_11
+    21300024: E2_12
+    21300026: E2_13
+    21300028: E2_14
+    21300030: E2_15
+    21300032: E2_16
+    21300034: E2_17
+    21300036: E2_18
+    21300038: E2_19
+    21300040: E2_20
+    21300042: E2_21
+    21300044: E2_22
+    21300046: E2_23
+    21300048: E2_24
+    21300050: E2_25
+    21300052: E2_26
+    21300054: E2_27
+    21300056: E2_28
+    21300058: E2_29
+    21300060: E2_30
+    21300062: E2_31
+    21300064: E2_32
+    21300066: E2_33
+    21300068: E2_34
+    21300070: E2_35
+    21300072: E2_36
+    21300074: E2_37
+    21300076: E2_38
+    21300078: E2_39
+    21300080: E2_40
+    21300082: E2_41
+    21300084: E2_42
+    21300086: E2_43
+    21300088: E2_44
+    21300090: E2_45
+    21300092: E2_46
+    21300094: E2_47
+    21300096: E2_48
+    21300098: E2_49
+    21300100: E2_50
+    21300102: E2_51
+    21300104: E2_52
+    21300106: E2_53
+    21300108: E2_54
+    21300110: E2_55
+    21300112: E2_56
+    21300114: E2_57
+    21300116: E2_58
+    21300118: E2_59
+    21300120: E2_60
+    21300122: E2_61
+    21300124: E2_62
+    21300126: E2_63
+    21300128: E2_64
+    21300130: E2_65
+    21300132: E2_66
+    21300134: E2_67
+    21300136: E2_68
+    21300138: E2_69
+    21300140: E2_70
+    21300142: E2_71
+    21300144: E2_72
+    21300146: E2_73
+    21300148: E2_74
+    21300150: E2_75
+    21300152: E2_76
+    21300154: E2_77
+    21300156: E2_78
+    21300158: E2_79
+    21300160: E2_80
+    21300162: E2_81
+    21300164: E2_82
+    21300166: E2_83
+    21300168: E2_84
+    21300170: E2_85
+    21300172: E2_86
+    21300174: E2_87
+    21300176: E2_88
+    21300178: E2_89
+    21300180: E2_90
+    21300182: E2_91
+    21300184: E2_92
+    21300186: E2_93
+    21300188: E2_94
+    21300190: E2_95
+    21300192: E2_96
+    21300194: E2_97
+    21300196: E2_98
+    21300198: E2_99
+    21300200: E2_100
+    21300202: E2_101
+    21300204: E2_102
+    21300206: E2_103
+    21300208: E2_104
+    21300210: E2_105
+    21300212: E2_106
+    21300214: E2_107
+    21300216: E2_108
+    21300218: E2_109
+    21300220: E2_110
+    21300222: E2_111
+    21300224: E2_112
+    21300226: E2_113
+    21300228: E2_114
+    21300230: E2_115
+    21300232: E2_116
+    21300234: E2_117
+    21300236: E2_118
+    21300238: E2_119
+    21300240: E2_120
+    21300242: E2_121
+    21300244: E2_122
+    21300246: E2_123
+    21300248: E2_124
+    21300250: E2_125
+    21300252: E2_126
+    21300254: E2_127
+    21300256: E2_128
+    21300258: E2_129
+    21300260: E2_130
+    21300262: E2_131
+    21300264: E2_132
+    21300266: E2_133
+    21300268: E2_134
+    21300270: E2_135
+    21300272: E2_136
+    21300274: E2_137
+    21300276: E2_138
+    21300278: E2_139
+    21300280: E2_140
+    21300282: E2_141
+    21300284: E2_142
+    21300286: E2_143
+    21300288: E2_144
+    21300290: E2_145
+    21300292: E2_146
+    21300294: E2_147
+    21300296: E2_148
+    21300298: E2_149
+    21300300: E2_150
+    21300302: E2_151
+    21300304: E2_152
+    21300306: E2_153
+    21300308: E2_154
+    21300310: E2_155
+    21300312: E2_156
+    21300314: E2_157
+    21300316: E2_158
+    21300318: E2_159
+    21300320: E2_160
+    21300322: E2_161
+    21300324: E2_162
+    21300326: E2_163
+    21300328: E2_164
+    21300330: E2_165
+    21300332: E2_166
+    21300334: E2_167
+    21300336: E2_168
+    21300338: E2_169
+    21300340: E2_170
+    21300342: E2_171
+    21300344: E2_172
+    21300346: E2_173
+    21300348: E2_174
+    21300350: E2_175
+    21300352: E2_176
+    21300354: E2_177
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: E2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 18}
+        - {x: -9, y: 18}
+        - {x: -14, y: 12}
+        - {x: -17, y: -5}
+        - {x: -17, y: -19}
+        - {x: -15, y: -29}
+        - {x: -13, y: -32}
+        - {x: 11, y: -32}
+        - {x: 17, y: -30}
+        - {x: 17, y: -4}
+        - {x: 14, y: 16}
+    - name: E2_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 7}
+        - {x: 14, y: 16}
+        - {x: 10, y: 18}
+        - {x: -11, y: 18}
+        - {x: -15, y: 7}
+        - {x: -15, y: -32}
+        - {x: 13, y: -32}
+        - {x: 14, y: -28}
+        - {x: 14, y: -23}
+        - {x: 15, y: -14}
+    - name: E2_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 18}
+        - {x: -15, y: 9}
+        - {x: -15, y: -29}
+        - {x: -13, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 11}
+        - {x: 13, y: 18}
+    - name: E2_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 18}
+        - {x: -12, y: 18}
+        - {x: -20, y: 6}
+        - {x: -20, y: -32}
+        - {x: 15, y: -32}
+        - {x: 17, y: -30}
+        - {x: 20, y: -23}
+        - {x: 20, y: -4}
+    - name: E2_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 18}
+        - {x: -27, y: 4}
+        - {x: -27, y: -20}
+        - {x: -22, y: -32}
+        - {x: 18, y: -32}
+        - {x: 27, y: -11}
+        - {x: 27, y: 11}
+        - {x: 11, y: 18}
+    - name: E2_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 18}
+        - {x: -26, y: 17}
+        - {x: -26, y: -13}
+        - {x: -16, y: -32}
+        - {x: 21, y: -32}
+        - {x: 26, y: -3}
+        - {x: 26, y: 11}
+        - {x: 19, y: 18}
+    - name: E2_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 18}
+        - {x: -12, y: 18}
+        - {x: -20, y: 6}
+        - {x: -20, y: -32}
+        - {x: 15, y: -32}
+        - {x: 17, y: -30}
+        - {x: 20, y: -23}
+        - {x: 20, y: -4}
+    - name: E2_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19}
+        - {x: -11, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: 18}
+        - {x: 12, y: 19}
+    - name: E2_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 19}
+        - {x: -10, y: 19}
+        - {x: -13, y: 9}
+        - {x: -13, y: -30}
+        - {x: -5, y: -32}
+        - {x: 9, y: -32}
+        - {x: 13, y: -24}
+        - {x: 14, y: -18}
+        - {x: 14, y: 18}
+    - name: E2_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 19}
+        - {x: -12, y: 16}
+        - {x: -12, y: -32}
+        - {x: 9, y: -32}
+        - {x: 13, y: -25}
+        - {x: 13, y: 17}
+        - {x: 8, y: 19}
+    - name: E2_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 19}
+        - {x: -14, y: -28}
+        - {x: -9, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 19}
+    - name: E2_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 19}
+        - {x: -16, y: 14}
+        - {x: -16, y: -27}
+        - {x: -10, y: -32}
+        - {x: 7, y: -32}
+        - {x: 10, y: -30}
+        - {x: 21, y: -11}
+        - {x: 21, y: 9}
+        - {x: 8, y: 19}
+    - name: E2_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 19}
+        - {x: -6, y: 19}
+        - {x: -13, y: 17}
+        - {x: -16, y: 11}
+        - {x: -16, y: -16}
+        - {x: -14, y: -30}
+        - {x: -1, y: -32}
+        - {x: 8, y: -32}
+        - {x: 10, y: -30}
+        - {x: 21, y: -4}
+        - {x: 21, y: 11}
+    - name: E2_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 19}
+        - {x: -14, y: -20}
+        - {x: -11, y: -32}
+        - {x: 9, y: -32}
+        - {x: 18, y: -12}
+        - {x: 18, y: 3}
+        - {x: 12, y: 19}
+    - name: E2_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -32}
+        - {x: 17, y: -30}
+        - {x: 17, y: 8}
+        - {x: 13, y: 19}
+        - {x: -13, y: 19}
+        - {x: -17, y: 17}
+        - {x: -17, y: -24}
+        - {x: -16, y: -31}
+        - {x: -12, y: -32}
+        - {x: -3, y: -32}
+        - {x: -1, y: -28}
+        - {x: -1, y: -30}
+        - {x: 4, y: -32}
+    - name: E2_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: -32}
+        - {x: 17, y: -2}
+        - {x: 16, y: 14}
+        - {x: 8, y: 19}
+        - {x: -6, y: 19}
+        - {x: -12, y: 15}
+        - {x: -17, y: 5}
+        - {x: -17, y: -31}
+        - {x: -11, y: -32}
+        - {x: -5, y: -32}
+        - {x: -1, y: -28}
+        - {x: -1, y: -25}
+        - {x: 3, y: -32}
+    - name: E2_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: -32}
+        - {x: 15, y: -31}
+        - {x: 15, y: 11}
+        - {x: 12, y: 19}
+        - {x: -15, y: 19}
+        - {x: -15, y: -32}
+        - {x: -3, y: -32}
+        - {x: -1, y: -28}
+        - {x: -1, y: -25}
+        - {x: 3, y: -32}
+    - name: E2_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: -32}
+        - {x: 20, y: -17}
+        - {x: 20, y: -8}
+        - {x: 14, y: 13}
+        - {x: 10, y: 19}
+        - {x: -7, y: 19}
+        - {x: -14, y: 17}
+        - {x: -20, y: 2}
+        - {x: -20, y: -32}
+        - {x: -3, y: -32}
+        - {x: -1, y: -28}
+        - {x: -1, y: -30}
+        - {x: 4, y: -32}
+    - name: E2_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: -32}
+        - {x: 17, y: -31}
+        - {x: 27, y: -9}
+        - {x: 27, y: 9}
+        - {x: 17, y: 19}
+        - {x: -14, y: 19}
+        - {x: -27, y: 10}
+        - {x: -27, y: -8}
+        - {x: -14, y: -32}
+        - {x: -5, y: -32}
+        - {x: -1, y: -28}
+        - {x: -1, y: -25}
+        - {x: 3, y: -32}
+    - name: E2_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 19}
+        - {x: -26, y: -16}
+        - {x: -15, y: -32}
+        - {x: 25, y: -32}
+        - {x: 26, y: -31}
+        - {x: 26, y: 19}
+    - name: E2_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -32}
+        - {x: 12, y: -32}
+        - {x: 19, y: -24}
+        - {x: 19, y: 9}
+        - {x: 18, y: 16}
+        - {x: 8, y: 19}
+        - {x: -10, y: 19}
+        - {x: -13, y: 13}
+        - {x: -19, y: 3}
+        - {x: -19, y: -21}
+        - {x: -17, y: -31}
+        - {x: -11, y: -32}
+        - {x: -3, y: -32}
+        - {x: -1, y: -28}
+        - {x: -1, y: -25}
+        - {x: 1, y: -28}
+    - name: E2_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19}
+        - {x: -13, y: 17}
+        - {x: -13, y: -32}
+        - {x: 1, y: -32}
+        - {x: 10, y: -31}
+        - {x: 11, y: -29}
+        - {x: 11, y: 17}
+        - {x: 5, y: 19}
+    - name: E2_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -14, y: 18}
+        - {x: -14, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: 19}
+    - name: E2_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 19}
+        - {x: -13, y: -23}
+        - {x: -7, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 19}
+    - name: E2_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 19}
+        - {x: -7, y: 19}
+        - {x: -14, y: 17}
+        - {x: -16, y: 11}
+        - {x: -16, y: -17}
+        - {x: -10, y: -32}
+        - {x: 12, y: -32}
+        - {x: 14, y: -27}
+        - {x: 14, y: 8}
+        - {x: 11, y: 16}
+    - name: E2_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 19}
+        - {x: -21, y: 16}
+        - {x: -21, y: -29}
+        - {x: -16, y: -32}
+        - {x: 8, y: -32}
+        - {x: 14, y: -30}
+        - {x: 16, y: -25}
+        - {x: 16, y: 6}
+        - {x: 9, y: 19}
+    - name: E2_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19}
+        - {x: -21, y: 14}
+        - {x: -21, y: -23}
+        - {x: -18, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 19}
+    - name: E2_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 19}
+        - {x: -7, y: 19}
+        - {x: -14, y: 17}
+        - {x: -18, y: 7}
+        - {x: -18, y: -14}
+        - {x: -10, y: -32}
+        - {x: 13, y: -32}
+        - {x: 14, y: -28}
+        - {x: 14, y: 7}
+        - {x: 11, y: 16}
+    - name: E2_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 18}
+        - {x: -17, y: 5}
+        - {x: -17, y: -28}
+        - {x: -13, y: -32}
+        - {x: 12, y: -32}
+        - {x: 17, y: -28}
+        - {x: 17, y: 7}
+        - {x: 12, y: 18}
+    - name: E2_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 17}
+        - {x: -14, y: -32}
+        - {x: 12, y: -32}
+        - {x: 16, y: -27}
+        - {x: 16, y: 14}
+        - {x: 8, y: 17}
+    - name: E2_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 11}
+        - {x: 12, y: 14}
+        - {x: 9, y: 17}
+        - {x: 6, y: 18}
+        - {x: -6, y: 18}
+        - {x: -11, y: 16}
+        - {x: -11, y: -30}
+        - {x: -6, y: -32}
+        - {x: 9, y: -32}
+        - {x: 12, y: -29}
+        - {x: 15, y: -22}
+        - {x: 15, y: -5}
+    - name: E2_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 18}
+        - {x: -11, y: 18}
+        - {x: -11, y: -21}
+        - {x: -9, y: -32}
+        - {x: 9, y: -32}
+        - {x: 12, y: -29}
+        - {x: 15, y: -22}
+        - {x: 15, y: 14}
+    - name: E2_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 17}
+        - {x: -10, y: 16}
+        - {x: -10, y: -29}
+        - {x: -5, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 15}
+        - {x: 9, y: 17}
+    - name: E2_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 17}
+        - {x: -10, y: -29}
+        - {x: -6, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 14}
+        - {x: 13, y: 17}
+    - name: E2_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 17}
+        - {x: -10, y: 16}
+        - {x: -10, y: -29}
+        - {x: -5, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 15}
+        - {x: 9, y: 17}
+    - name: E2_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 17}
+        - {x: 6, y: 18}
+        - {x: -7, y: 18}
+        - {x: -11, y: 13}
+        - {x: -11, y: -28}
+        - {x: -2, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: 12}
+        - {x: 12, y: 14}
+    - name: E2_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19}
+        - {x: -11, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: 18}
+        - {x: 12, y: 19}
+    - name: E2_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19}
+        - {x: -15, y: 18}
+        - {x: -15, y: -23}
+        - {x: -10, y: -31}
+        - {x: -8, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: 19}
+    - name: E2_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 19}
+        - {x: -11, y: 15}
+        - {x: -15, y: -4}
+        - {x: -15, y: -24}
+        - {x: -13, y: -29}
+        - {x: -2, y: -32}
+        - {x: 9, y: -32}
+        - {x: 16, y: -19}
+        - {x: 16, y: 6}
+        - {x: 11, y: 19}
+    - name: E2_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 19}
+        - {x: -9, y: 19}
+        - {x: -12, y: 13}
+        - {x: -12, y: -31}
+        - {x: -8, y: -32}
+        - {x: 12, y: -32}
+        - {x: 16, y: -18}
+        - {x: 16, y: 6}
+        - {x: 14, y: 16}
+    - name: E2_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 19}
+        - {x: -13, y: 15}
+        - {x: -19, y: -7}
+        - {x: -19, y: -20}
+        - {x: -15, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 5}
+        - {x: 10, y: 19}
+    - name: E2_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 19}
+        - {x: -22, y: -2}
+        - {x: -22, y: -22}
+        - {x: -14, y: -30}
+        - {x: -2, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 16}
+        - {x: 7, y: 19}
+    - name: E2_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 19}
+        - {x: -13, y: 15}
+        - {x: -19, y: -7}
+        - {x: -19, y: -20}
+        - {x: -15, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 5}
+        - {x: 10, y: 19}
+    - name: E2_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 19}
+        - {x: -9, y: 19}
+        - {x: -12, y: 16}
+        - {x: -12, y: -24}
+        - {x: -10, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -22}
+        - {x: 16, y: 9}
+        - {x: 14, y: 17}
+    - name: E2_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -32}
+        - {x: 17, y: -30}
+        - {x: 17, y: 8}
+        - {x: 13, y: 19}
+        - {x: -13, y: 19}
+        - {x: -17, y: 17}
+        - {x: -17, y: -24}
+        - {x: -16, y: -31}
+        - {x: -12, y: -32}
+        - {x: -3, y: -32}
+        - {x: -1, y: -28}
+        - {x: -1, y: -30}
+        - {x: 4, y: -32}
+    - name: E2_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -15, y: 11}
+        - {x: -15, y: -28}
+        - {x: -14, y: -31}
+        - {x: 12, y: -31}
+        - {x: 13, y: -29}
+        - {x: 13, y: 11}
+        - {x: 12, y: 19}
+    - name: E2_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19}
+        - {x: -13, y: 16}
+        - {x: -13, y: -29}
+        - {x: -5, y: -31}
+        - {x: 12, y: -31}
+        - {x: 12, y: 17}
+        - {x: 8, y: 19}
+    - name: E2_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 19}
+        - {x: -16, y: -25}
+        - {x: -6, y: -31}
+        - {x: 12, y: -31}
+        - {x: 12, y: 15}
+        - {x: 9, y: 19}
+    - name: E2_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 14}
+        - {x: 8, y: 17}
+        - {x: 5, y: 18}
+        - {x: -9, y: 18}
+        - {x: -13, y: 15}
+        - {x: -13, y: -29}
+        - {x: -8, y: -31}
+        - {x: 11, y: -31}
+        - {x: 12, y: -30}
+        - {x: 12, y: 11}
+    - name: E2_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 18}
+        - {x: -12, y: 15}
+        - {x: -12, y: -29}
+        - {x: 0, y: -31}
+        - {x: 10, y: -31}
+        - {x: 12, y: -29}
+        - {x: 12, y: 16}
+        - {x: 7, y: 18}
+    - name: E2_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 18}
+        - {x: -13, y: 17}
+        - {x: -13, y: -28}
+        - {x: -11, y: -31}
+        - {x: 12, y: -31}
+        - {x: 12, y: 17}
+        - {x: 10, y: 18}
+    - name: E2_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -16, y: 5}
+        - {x: -16, y: -14}
+        - {x: -11, y: -29}
+        - {x: -5, y: -31}
+        - {x: 8, y: -31}
+        - {x: 12, y: -30}
+        - {x: 12, y: 14}
+        - {x: 11, y: 19}
+    - name: E2_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19}
+        - {x: -13, y: 17}
+        - {x: -13, y: -32}
+        - {x: 11, y: -32}
+        - {x: 11, y: 19}
+    - name: E2_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 19}
+        - {x: -13, y: 19}
+        - {x: -13, y: -32}
+        - {x: 11, y: -32}
+        - {x: 15, y: -29}
+        - {x: 15, y: 7}
+        - {x: 13, y: 17}
+    - name: E2_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 16}
+        - {x: 8, y: 19}
+        - {x: -11, y: 19}
+        - {x: -16, y: 7}
+        - {x: -16, y: -25}
+        - {x: -11, y: -31}
+        - {x: -6, y: -32}
+        - {x: 13, y: -32}
+        - {x: 15, y: -28}
+        - {x: 15, y: 6}
+    - name: E2_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 19}
+        - {x: -16, y: -32}
+        - {x: 5, y: -32}
+        - {x: 12, y: -30}
+        - {x: 12, y: 14}
+        - {x: 7, y: 19}
+    - name: E2_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 19}
+        - {x: -11, y: 19}
+        - {x: -12, y: 18}
+        - {x: -12, y: -32}
+        - {x: 13, y: -32}
+        - {x: 19, y: -22}
+        - {x: 19, y: 8}
+        - {x: 17, y: 14}
+    - name: E2_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 19}
+        - {x: -12, y: 19}
+        - {x: -12, y: -31}
+        - {x: -11, y: -32}
+        - {x: 10, y: -32}
+        - {x: 13, y: -29}
+        - {x: 22, y: -21}
+        - {x: 22, y: -1}
+    - name: E2_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 19}
+        - {x: -11, y: 19}
+        - {x: -12, y: 18}
+        - {x: -12, y: -32}
+        - {x: 13, y: -32}
+        - {x: 19, y: -22}
+        - {x: 19, y: 8}
+        - {x: 17, y: 14}
+    - name: E2_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 19}
+        - {x: -16, y: -32}
+        - {x: 10, y: -32}
+        - {x: 12, y: -30}
+        - {x: 12, y: 15}
+        - {x: 8, y: 19}
+    - name: E2_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 20}
+        - {x: -9, y: 20}
+        - {x: -14, y: 14}
+        - {x: -16, y: -3}
+        - {x: -17, y: -12}
+        - {x: -17, y: -15}
+        - {x: -15, y: -27}
+        - {x: -13, y: -30}
+        - {x: 11, y: -30}
+        - {x: 17, y: -28}
+        - {x: 17, y: -2}
+        - {x: 14, y: 18}
+    - name: E2_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 20}
+        - {x: -17, y: -30}
+        - {x: 11, y: -30}
+        - {x: 17, y: -22}
+        - {x: 17, y: 0}
+        - {x: 11, y: 20}
+    - name: E2_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 17}
+        - {x: 7, y: 20}
+        - {x: -12, y: 20}
+        - {x: -17, y: 16}
+        - {x: -17, y: -31}
+        - {x: 13, y: -31}
+        - {x: 17, y: -16}
+        - {x: 17, y: -3}
+    - name: E2_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 19}
+        - {x: -14, y: 13}
+        - {x: -17, y: -3}
+        - {x: -17, y: -21}
+        - {x: -8, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 19}
+    - name: E2_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 16}
+        - {x: 8, y: 20}
+        - {x: -7, y: 20}
+        - {x: -14, y: 14}
+        - {x: -17, y: -5}
+        - {x: -17, y: -20}
+        - {x: -13, y: -27}
+        - {x: -4, y: -31}
+        - {x: 11, y: -31}
+        - {x: 17, y: -22}
+        - {x: 17, y: 0}
+        - {x: 12, y: 13}
+    - name: E2_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 20}
+        - {x: -17, y: -30}
+        - {x: 11, y: -30}
+        - {x: 17, y: -22}
+        - {x: 17, y: 0}
+        - {x: 11, y: 20}
+    - name: E2_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 20}
+        - {x: -13, y: 20}
+        - {x: -17, y: 18}
+        - {x: -17, y: -31}
+        - {x: 14, y: -31}
+        - {x: 17, y: -22}
+        - {x: 17, y: -4}
+        - {x: 14, y: 18}
+    - name: E2_67
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -16, y: 14}
+        - {x: -16, y: -32}
+        - {x: 5, y: -32}
+        - {x: 17, y: -21}
+        - {x: 17, y: -3}
+        - {x: 10, y: 19}
+    - name: E2_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 18}
+        - {x: 6, y: 20}
+        - {x: -13, y: 20}
+        - {x: -17, y: 18}
+        - {x: -17, y: -31}
+        - {x: 12, y: -31}
+        - {x: 17, y: -20}
+        - {x: 17, y: -3}
+    - name: E2_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 20}
+        - {x: -11, y: 16}
+        - {x: -22, y: -10}
+        - {x: -22, y: -19}
+        - {x: -15, y: -31}
+        - {x: 9, y: -31}
+        - {x: 13, y: -23}
+        - {x: 13, y: 18}
+        - {x: 7, y: 20}
+    - name: E2_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -12, y: 16}
+        - {x: -15, y: -18}
+        - {x: -15, y: -26}
+        - {x: -9, y: -31}
+        - {x: 12, y: -31}
+        - {x: 14, y: -27}
+        - {x: 14, y: 17}
+        - {x: 8, y: 19}
+    - name: E2_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 20}
+        - {x: -13, y: -30}
+        - {x: 12, y: -30}
+        - {x: 12, y: 18}
+        - {x: 11, y: 20}
+    - name: E2_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -12, y: 11}
+        - {x: -12, y: -22}
+        - {x: -7, y: -30}
+        - {x: 7, y: -30}
+        - {x: 15, y: -19}
+        - {x: 15, y: 17}
+        - {x: 10, y: 20}
+    - name: E2_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 20}
+        - {x: -18, y: 4}
+        - {x: -19, y: 0}
+        - {x: -19, y: -13}
+        - {x: -11, y: -26}
+        - {x: -8, y: -31}
+        - {x: 7, y: -31}
+        - {x: 12, y: -30}
+        - {x: 16, y: -24}
+        - {x: 16, y: 15}
+        - {x: 8, y: 20}
+    - name: E2_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 19}
+        - {x: -14, y: 19}
+        - {x: -14, y: -31}
+        - {x: 2, y: -31}
+        - {x: 13, y: -29}
+        - {x: 18, y: -20}
+        - {x: 18, y: -10}
+        - {x: 14, y: 17}
+    - name: E2_75
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 20}
+        - {x: -17, y: 3}
+        - {x: -18, y: 0}
+        - {x: -18, y: -14}
+        - {x: -11, y: -31}
+        - {x: 6, y: -31}
+        - {x: 14, y: -29}
+        - {x: 16, y: -27}
+        - {x: 16, y: 10}
+        - {x: 13, y: 20}
+    - name: E2_76
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 20}
+        - {x: -20, y: -7}
+        - {x: -20, y: -20}
+        - {x: -8, y: -31}
+        - {x: 15, y: -31}
+        - {x: 15, y: 20}
+    - name: E2_77
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 20}
+        - {x: -12, y: -31}
+        - {x: 11, y: -31}
+        - {x: 14, y: -21}
+        - {x: 14, y: 18}
+        - {x: 7, y: 20}
+    - name: E2_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -31}
+        - {x: 17, y: -29}
+        - {x: 17, y: 9}
+        - {x: 13, y: 20}
+        - {x: -13, y: 20}
+        - {x: -17, y: 18}
+        - {x: -17, y: -23}
+        - {x: -16, y: -30}
+        - {x: -12, y: -31}
+        - {x: -3, y: -31}
+        - {x: -1, y: -27}
+        - {x: -1, y: -29}
+        - {x: 4, y: -31}
+    - name: E2_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 20}
+        - {x: -17, y: 17}
+        - {x: -17, y: -31}
+        - {x: 17, y: -31}
+        - {x: 17, y: 16}
+        - {x: 13, y: 20}
+    - name: E2_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 20}
+        - {x: -8, y: 20}
+        - {x: -14, y: 19}
+        - {x: -17, y: 2}
+        - {x: -17, y: -24}
+        - {x: -14, y: -29}
+        - {x: -5, y: -32}
+        - {x: 13, y: -32}
+        - {x: 17, y: -24}
+        - {x: 17, y: 2}
+        - {x: 14, y: 14}
+    - name: E2_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19}
+        - {x: -13, y: 17}
+        - {x: -17, y: -3}
+        - {x: -17, y: -23}
+        - {x: -10, y: -30}
+        - {x: -1, y: -32}
+        - {x: 11, y: -32}
+        - {x: 17, y: -20}
+        - {x: 17, y: 17}
+        - {x: 10, y: 19}
+    - name: E2_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 20}
+        - {x: -17, y: 12}
+        - {x: -17, y: -24}
+        - {x: -15, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -30}
+        - {x: 17, y: -22}
+        - {x: 17, y: 20}
+    - name: E2_83
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 20}
+        - {x: -17, y: 16}
+        - {x: -17, y: -31}
+        - {x: 14, y: -31}
+        - {x: 17, y: -28}
+        - {x: 17, y: 17}
+        - {x: 10, y: 20}
+    - name: E2_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -12, y: 16}
+        - {x: -17, y: 0}
+        - {x: -17, y: -23}
+        - {x: -12, y: -32}
+        - {x: 10, y: -32}
+        - {x: 17, y: -23}
+        - {x: 17, y: 18}
+        - {x: 10, y: 20}
+    - name: E2_85
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 19}
+        - {x: -9, y: 19}
+        - {x: -17, y: 9}
+        - {x: -17, y: -32}
+        - {x: 13, y: -32}
+        - {x: 17, y: -26}
+        - {x: 17, y: 8}
+        - {x: 16, y: 14}
+    - name: E2_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 20}
+        - {x: -14, y: 18}
+        - {x: -17, y: 1}
+        - {x: -17, y: -22}
+        - {x: -12, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 16}
+        - {x: 12, y: 20}
+    - name: E2_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 20}
+        - {x: -13, y: 17}
+        - {x: -13, y: -25}
+        - {x: -12, y: -31}
+        - {x: 12, y: -31}
+        - {x: 22, y: -22}
+        - {x: 22, y: -4}
+        - {x: 9, y: 20}
+    - name: E2_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 12}
+        - {x: -14, y: -17}
+        - {x: -14, y: -28}
+        - {x: -13, y: -31}
+        - {x: 10, y: -31}
+        - {x: 15, y: -30}
+        - {x: 15, y: 8}
+        - {x: 13, y: 17}
+        - {x: 6, y: 19}
+        - {x: -9, y: 19}
+        - {x: -11, y: 15}
+    - name: E2_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -12, y: 18}
+        - {x: -12, y: -28}
+        - {x: -8, y: -30}
+        - {x: 13, y: -30}
+        - {x: 13, y: 19}
+        - {x: 8, y: 20}
+    - name: E2_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 20}
+        - {x: -15, y: -21}
+        - {x: -13, y: -30}
+        - {x: 5, y: -30}
+        - {x: 12, y: -24}
+        - {x: 12, y: 20}
+    - name: E2_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 20}
+        - {x: -12, y: 20}
+        - {x: -15, y: 19}
+        - {x: -16, y: 5}
+        - {x: -16, y: -20}
+        - {x: -10, y: -29}
+        - {x: -7, y: -31}
+        - {x: 11, y: -31}
+        - {x: 19, y: -19}
+        - {x: 19, y: 2}
+        - {x: 10, y: 16}
+    - name: E2_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 19}
+        - {x: -18, y: -31}
+        - {x: 14, y: -31}
+        - {x: 14, y: 17}
+        - {x: 12, y: 19}
+    - name: E2_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -21}
+        - {x: -10, y: -31}
+        - {x: 12, y: -31}
+        - {x: 18, y: -26}
+        - {x: 18, y: 10}
+        - {x: 8, y: 20}
+        - {x: -12, y: 20}
+        - {x: -15, y: 19}
+        - {x: -16, y: 6}
+    - name: E2_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -15, y: 7}
+        - {x: -15, y: -18}
+        - {x: -11, y: -29}
+        - {x: -7, y: -31}
+        - {x: 20, y: -31}
+        - {x: 20, y: 20}
+    - name: E2_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 20}
+        - {x: -14, y: -25}
+        - {x: -13, y: -31}
+        - {x: 8, y: -31}
+        - {x: 12, y: -25}
+        - {x: 12, y: 20}
+    - name: E2_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 18}
+        - {x: -9, y: 18}
+        - {x: -14, y: 12}
+        - {x: -17, y: -5}
+        - {x: -17, y: -19}
+        - {x: -15, y: -29}
+        - {x: -13, y: -32}
+        - {x: 11, y: -32}
+        - {x: 17, y: -30}
+        - {x: 17, y: -4}
+        - {x: 14, y: 16}
+    - name: E2_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 17}
+        - {x: -11, y: 17}
+        - {x: -15, y: 13}
+        - {x: -15, y: -32}
+        - {x: 14, y: -32}
+        - {x: 15, y: -30}
+        - {x: 15, y: 8}
+        - {x: 14, y: 15}
+    - name: E2_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 17}
+        - {x: -9, y: 17}
+        - {x: -14, y: 11}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: -13}
+        - {x: 11, y: 13}
+    - name: E2_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 18}
+        - {x: -15, y: 17}
+        - {x: -15, y: -31}
+        - {x: -13, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 7}
+        - {x: 12, y: 18}
+    - name: E2_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 18}
+        - {x: -9, y: 18}
+        - {x: -16, y: 4}
+        - {x: -16, y: -29}
+        - {x: -13, y: -32}
+        - {x: -5, y: -32}
+        - {x: -2, y: -29}
+        - {x: 4, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -30}
+        - {x: 24, y: -8}
+        - {x: 24, y: 6}
+    - name: E2_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 18}
+        - {x: -11, y: 12}
+        - {x: -16, y: -5}
+        - {x: -16, y: -24}
+        - {x: -12, y: -32}
+        - {x: 22, y: -32}
+        - {x: 27, y: -14}
+        - {x: 27, y: 17}
+        - {x: 25, y: 18}
+    - name: E2_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19}
+        - {x: -22, y: -3}
+        - {x: -22, y: -21}
+        - {x: -8, y: -32}
+        - {x: 8, y: -32}
+        - {x: 13, y: -25}
+        - {x: 13, y: 18}
+        - {x: 10, y: 19}
+    - name: E2_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 17}
+        - {x: -16, y: 16}
+        - {x: -23, y: -4}
+        - {x: -23, y: -26}
+        - {x: -16, y: -32}
+        - {x: 10, y: -32}
+        - {x: 12, y: -30}
+        - {x: 12, y: 11}
+        - {x: 11, y: 17}
+    - name: E2_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 19}
+        - {x: -14, y: 19}
+        - {x: -14, y: -32}
+        - {x: 9, y: -32}
+        - {x: 14, y: -23}
+        - {x: 14, y: -3}
+        - {x: 11, y: 12}
+    - name: E2_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 19}
+        - {x: -27, y: -17}
+        - {x: -27, y: -23}
+        - {x: -21, y: -28}
+        - {x: -8, y: -32}
+        - {x: 11, y: -32}
+        - {x: 15, y: -23}
+        - {x: 15, y: -9}
+        - {x: 8, y: 19}
+    - name: E2_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 19}
+        - {x: -32, y: 0}
+        - {x: -32, y: -16}
+        - {x: -13, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 4}
+        - {x: 13, y: 14}
+        - {x: 10, y: 19}
+    - name: E2_107
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 19}
+        - {x: -32, y: 6}
+        - {x: -32, y: -13}
+        - {x: -10, y: -32}
+        - {x: 10, y: -32}
+        - {x: 12, y: -30}
+        - {x: 14, y: -27}
+        - {x: 14, y: 4}
+        - {x: 7, y: 19}
+    - name: E2_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -32}
+        - {x: 17, y: -30}
+        - {x: 17, y: 8}
+        - {x: 13, y: 19}
+        - {x: -13, y: 19}
+        - {x: -17, y: 17}
+        - {x: -17, y: -24}
+        - {x: -16, y: -31}
+        - {x: -12, y: -32}
+        - {x: -3, y: -32}
+        - {x: -1, y: -28}
+        - {x: -1, y: -30}
+        - {x: 4, y: -32}
+    - name: E2_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: -32}
+        - {x: 15, y: -30}
+        - {x: 15, y: 10}
+        - {x: 12, y: 19}
+        - {x: -7, y: 19}
+        - {x: -8, y: 18}
+        - {x: -14, y: 13}
+        - {x: -15, y: -3}
+        - {x: -15, y: -32}
+        - {x: -3, y: -32}
+        - {x: -1, y: -28}
+        - {x: -1, y: -25}
+        - {x: 5, y: -32}
+    - name: E2_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 17}
+        - {x: -15, y: 15}
+        - {x: -15, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 15}
+        - {x: 11, y: 17}
+    - name: E2_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 18}
+        - {x: -11, y: 16}
+        - {x: -14, y: 1}
+        - {x: -14, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 15}
+        - {x: 13, y: 18}
+    - name: E2_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: -12}
+        - {x: 13, y: -15}
+        - {x: 15, y: -17}
+        - {x: 15, y: -24}
+        - {x: 18, y: -27}
+        - {x: 19, y: -27}
+        - {x: 24, y: -24}
+        - {x: 25, y: -15}
+        - {x: 25, y: -5}
+        - {x: 21, y: 15}
+        - {x: 12, y: 19}
+        - {x: -8, y: 19}
+        - {x: -11, y: 13}
+        - {x: -13, y: -1}
+        - {x: -14, y: -11}
+        - {x: -14, y: -31}
+        - {x: -13, y: -32}
+        - {x: 13, y: -32}
+        - {x: 19, y: -30}
+        - {x: 15, y: -25}
+        - {x: 14, y: -22}
+    - name: E2_113
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 19}
+        - {x: -15, y: 5}
+        - {x: -15, y: -32}
+        - {x: 9, y: -32}
+        - {x: 12, y: -31}
+        - {x: 32, y: -24}
+        - {x: 32, y: -8}
+        - {x: 16, y: 19}
+    - name: E2_114
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 19}
+        - {x: -14, y: 13}
+        - {x: -14, y: -22}
+        - {x: -10, y: -32}
+        - {x: 6, y: -32}
+        - {x: 13, y: -30}
+        - {x: 21, y: -22}
+        - {x: 21, y: 3}
+        - {x: 14, y: 19}
+    - name: E2_115
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: -19}
+        - {x: 19, y: -13}
+        - {x: 14, y: 14}
+        - {x: 13, y: 17}
+        - {x: -12, y: 17}
+        - {x: -12, y: -24}
+        - {x: -8, y: -32}
+        - {x: 1, y: -32}
+        - {x: 11, y: -30}
+        - {x: 23, y: -29}
+    - name: E2_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 19}
+        - {x: -13, y: 17}
+        - {x: -14, y: 9}
+        - {x: -14, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 11}
+        - {x: 12, y: 19}
+    - name: E2_117
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -8}
+        - {x: 15, y: 12}
+        - {x: 10, y: 19}
+        - {x: -4, y: 19}
+        - {x: -9, y: 15}
+        - {x: -15, y: -10}
+        - {x: -15, y: -24}
+        - {x: -12, y: -31}
+        - {x: -8, y: -32}
+        - {x: 24, y: -32}
+        - {x: 27, y: -30}
+        - {x: 27, y: -15}
+    - name: E2_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 19}
+        - {x: -8, y: 19}
+        - {x: -14, y: 15}
+        - {x: -14, y: -32}
+        - {x: 14, y: -32}
+        - {x: 15, y: -29}
+        - {x: 32, y: -9}
+        - {x: 32, y: 8}
+    - name: E2_119
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 19}
+        - {x: -7, y: 19}
+        - {x: -14, y: 5}
+        - {x: -14, y: -30}
+        - {x: -12, y: -32}
+        - {x: 10, y: -32}
+        - {x: 17, y: -30}
+        - {x: 32, y: -8}
+        - {x: 32, y: 0}
+        - {x: 30, y: 3}
+    - name: E2_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 18}
+        - {x: -18, y: 5}
+        - {x: -18, y: -28}
+        - {x: -14, y: -32}
+        - {x: 11, y: -32}
+        - {x: 16, y: -28}
+        - {x: 16, y: 7}
+        - {x: 11, y: 18}
+    - name: E2_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 17}
+        - {x: -15, y: -32}
+        - {x: 11, y: -32}
+        - {x: 15, y: -27}
+        - {x: 15, y: 14}
+        - {x: 7, y: 17}
+    - name: E2_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 0}
+        - {x: 12, y: 11}
+        - {x: 11, y: 14}
+        - {x: 8, y: 17}
+        - {x: 5, y: 18}
+        - {x: -7, y: 18}
+        - {x: -12, y: 16}
+        - {x: -12, y: -30}
+        - {x: -7, y: -32}
+        - {x: 8, y: -32}
+        - {x: 11, y: -29}
+        - {x: 11, y: -27}
+        - {x: 13, y: -22}
+    - name: E2_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 18}
+        - {x: -13, y: 14}
+        - {x: -13, y: 2}
+        - {x: -10, y: -25}
+        - {x: -6, y: -32}
+        - {x: 10, y: -32}
+        - {x: 12, y: -28}
+        - {x: 12, y: 17}
+        - {x: 9, y: 18}
+    - name: E2_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 18}
+        - {x: -13, y: -29}
+        - {x: -7, y: -32}
+        - {x: 10, y: -32}
+        - {x: 16, y: -21}
+        - {x: 16, y: -1}
+        - {x: 11, y: 18}
+    - name: E2_125
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 18}
+        - {x: -13, y: -22}
+        - {x: -12, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 18}
+    - name: E2_126
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 18}
+        - {x: -13, y: 14}
+        - {x: -13, y: -24}
+        - {x: -9, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -24}
+        - {x: 16, y: 10}
+        - {x: 7, y: 18}
+    - name: E2_127
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 18}
+        - {x: -13, y: -18}
+        - {x: -8, y: -32}
+        - {x: 9, y: -32}
+        - {x: 15, y: -22}
+        - {x: 15, y: 7}
+        - {x: 11, y: 18}
+    - name: E2_128
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 18}
+        - {x: -11, y: 18}
+        - {x: -13, y: 14}
+        - {x: -13, y: 2}
+        - {x: -10, y: -25}
+        - {x: -6, y: -32}
+        - {x: 14, y: -32}
+        - {x: 17, y: -25}
+        - {x: 17, y: 9}
+        - {x: 13, y: 16}
+    - name: E2_129
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 18}
+        - {x: -12, y: 18}
+        - {x: -13, y: 16}
+        - {x: -13, y: -16}
+        - {x: -7, y: -32}
+        - {x: 10, y: -32}
+        - {x: 16, y: -20}
+        - {x: 16, y: 5}
+        - {x: 14, y: 12}
+    - name: E2_130
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 18}
+        - {x: -13, y: 14}
+        - {x: -13, y: 2}
+        - {x: -10, y: -25}
+        - {x: -6, y: -32}
+        - {x: 10, y: -32}
+        - {x: 12, y: -28}
+        - {x: 12, y: 17}
+        - {x: 9, y: 18}
+    - name: E2_131
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 18}
+        - {x: -13, y: 13}
+        - {x: -13, y: 2}
+        - {x: -10, y: -25}
+        - {x: -6, y: -32}
+        - {x: 10, y: -32}
+        - {x: 12, y: -28}
+        - {x: 12, y: 12}
+        - {x: 7, y: 18}
+    - name: E2_132
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 18}
+        - {x: -13, y: 14}
+        - {x: -13, y: 2}
+        - {x: -10, y: -25}
+        - {x: -6, y: -32}
+        - {x: 10, y: -32}
+        - {x: 12, y: -28}
+        - {x: 12, y: 17}
+        - {x: 9, y: 18}
+    - name: E2_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -10, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 18}
+        - {x: 13, y: 19}
+    - name: E2_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -14, y: 18}
+        - {x: -14, y: -23}
+        - {x: -9, y: -31}
+        - {x: -7, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 19}
+    - name: E2_135
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 19}
+        - {x: -11, y: 19}
+        - {x: -19, y: 6}
+        - {x: -19, y: -22}
+        - {x: -11, y: -32}
+        - {x: 8, y: -32}
+        - {x: 10, y: -29}
+        - {x: 17, y: -16}
+        - {x: 17, y: 16}
+    - name: E2_136
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -21, y: -8}
+        - {x: -21, y: -21}
+        - {x: -20, y: -24}
+        - {x: -7, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 14}
+        - {x: 9, y: 19}
+    - name: E2_137
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 19}
+        - {x: -21, y: -2}
+        - {x: -21, y: -12}
+        - {x: -12, y: -29}
+        - {x: -1, y: -32}
+        - {x: 13, y: -32}
+        - {x: 18, y: -24}
+        - {x: 18, y: 10}
+        - {x: 13, y: 19}
+    - name: E2_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 19}
+        - {x: -22, y: 9}
+        - {x: -22, y: -10}
+        - {x: -11, y: -32}
+        - {x: 13, y: -32}
+        - {x: 14, y: -29}
+        - {x: 14, y: 19}
+    - name: E2_139
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 19}
+        - {x: -22, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 19}
+    - name: E2_140
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 19}
+        - {x: -7, y: 19}
+        - {x: -21, y: 9}
+        - {x: -21, y: -11}
+        - {x: -10, y: -32}
+        - {x: 12, y: -32}
+        - {x: 14, y: -30}
+        - {x: 19, y: -14}
+        - {x: 19, y: 9}
+    - name: E2_141
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 19}
+        - {x: -6, y: 19}
+        - {x: -12, y: 17}
+        - {x: -21, y: 3}
+        - {x: -21, y: -6}
+        - {x: -11, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -31}
+        - {x: 21, y: -14}
+        - {x: 21, y: 7}
+    - name: E2_142
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -12, y: 17}
+        - {x: -21, y: -2}
+        - {x: -21, y: -13}
+        - {x: -12, y: -29}
+        - {x: -4, y: -32}
+        - {x: 15, y: -32}
+        - {x: 18, y: -26}
+        - {x: 18, y: 17}
+        - {x: 12, y: 19}
+    - name: E2_143
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 19}
+        - {x: -21, y: 4}
+        - {x: -21, y: -8}
+        - {x: -11, y: -32}
+        - {x: 15, y: -32}
+        - {x: 16, y: -28}
+        - {x: 16, y: 10}
+        - {x: 13, y: 19}
+    - name: E2_144
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 19}
+        - {x: -21, y: -2}
+        - {x: -21, y: -6}
+        - {x: -14, y: -30}
+        - {x: -9, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: 19}
+    - name: E2_145
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 19}
+        - {x: -21, y: 4}
+        - {x: -21, y: -8}
+        - {x: -11, y: -32}
+        - {x: 15, y: -32}
+        - {x: 16, y: -28}
+        - {x: 16, y: 10}
+        - {x: 13, y: 19}
+    - name: E2_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: -32}
+        - {x: 16, y: -30}
+        - {x: 16, y: 8}
+        - {x: 12, y: 19}
+        - {x: -14, y: 19}
+        - {x: -18, y: 17}
+        - {x: -18, y: -24}
+        - {x: -17, y: -31}
+        - {x: -13, y: -32}
+        - {x: -4, y: -32}
+        - {x: -2, y: -28}
+        - {x: -2, y: -30}
+        - {x: 3, y: -32}
+    - name: E2_147
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 19}
+        - {x: -16, y: 17}
+        - {x: -16, y: -31}
+        - {x: 13, y: -31}
+        - {x: 13, y: 17}
+        - {x: 6, y: 19}
+    - name: E2_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 19}
+        - {x: -16, y: 18}
+        - {x: -16, y: -17}
+        - {x: -14, y: -23}
+        - {x: -11, y: -30}
+        - {x: -7, y: -31}
+        - {x: 9, y: -31}
+        - {x: 12, y: -26}
+        - {x: 12, y: 14}
+        - {x: 11, y: 19}
+    - name: E2_149
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 19}
+        - {x: -16, y: 8}
+        - {x: -16, y: -23}
+        - {x: -10, y: -32}
+        - {x: 10, y: -32}
+        - {x: 11, y: -26}
+        - {x: 11, y: 19}
+    - name: E2_150
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 19}
+        - {x: -15, y: -14}
+        - {x: -14, y: -28}
+        - {x: -7, y: -32}
+        - {x: 4, y: -32}
+        - {x: 9, y: -31}
+        - {x: 11, y: -2}
+        - {x: 11, y: 14}
+        - {x: 7, y: 19}
+    - name: E2_151
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 19}
+        - {x: -14, y: -28}
+        - {x: -8, y: -32}
+        - {x: 4, y: -32}
+        - {x: 9, y: -31}
+        - {x: 11, y: -2}
+        - {x: 11, y: 14}
+        - {x: 8, y: 19}
+    - name: E2_152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 19}
+        - {x: -15, y: 16}
+        - {x: -15, y: -23}
+        - {x: -11, y: -32}
+        - {x: 8, y: -32}
+        - {x: 11, y: -18}
+        - {x: 11, y: 18}
+        - {x: 8, y: 19}
+    - name: E2_153
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 19}
+        - {x: -11, y: 19}
+        - {x: -16, y: 9}
+        - {x: -16, y: -7}
+        - {x: -12, y: -27}
+        - {x: -5, y: -32}
+        - {x: 4, y: -32}
+        - {x: 8, y: -30}
+        - {x: 11, y: 4}
+        - {x: 11, y: 14}
+    - name: E2_154
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19}
+        - {x: -16, y: 12}
+        - {x: -16, y: -31}
+        - {x: -12, y: -32}
+        - {x: 8, y: -32}
+        - {x: 11, y: -14}
+        - {x: 11, y: 17}
+        - {x: 8, y: 19}
+    - name: E2_155
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 19}
+        - {x: -15, y: -14}
+        - {x: -14, y: -28}
+        - {x: -7, y: -32}
+        - {x: 4, y: -32}
+        - {x: 9, y: -31}
+        - {x: 11, y: -2}
+        - {x: 11, y: 14}
+        - {x: 7, y: 19}
+    - name: E2_156
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 19}
+        - {x: -11, y: 19}
+        - {x: -16, y: 16}
+        - {x: -16, y: -30}
+        - {x: -10, y: -32}
+        - {x: 4, y: -32}
+        - {x: 9, y: -31}
+        - {x: 11, y: -2}
+        - {x: 11, y: 13}
+        - {x: 7, y: 18}
+    - name: E2_157
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -13, y: 15}
+        - {x: -13, y: -28}
+        - {x: -6, y: -32}
+        - {x: 9, y: -32}
+        - {x: 11, y: -22}
+        - {x: 11, y: 18}
+        - {x: 6, y: 19}
+    - name: E2_158
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 19}
+        - {x: -11, y: 19}
+        - {x: -16, y: 16}
+        - {x: -16, y: -30}
+        - {x: -10, y: -32}
+        - {x: 4, y: -32}
+        - {x: 9, y: -31}
+        - {x: 11, y: -2}
+        - {x: 11, y: 13}
+        - {x: 7, y: 18}
+    - name: E2_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -14, y: 13}
+        - {x: -14, y: -20}
+        - {x: -12, y: -30}
+        - {x: -9, y: -32}
+        - {x: 0, y: -32}
+        - {x: 9, y: -31}
+        - {x: 10, y: -29}
+        - {x: 10, y: 17}
+        - {x: 4, y: 19}
+    - name: E2_160
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 19}
+        - {x: -14, y: 19}
+        - {x: -14, y: -32}
+        - {x: 10, y: -32}
+        - {x: 14, y: -29}
+        - {x: 14, y: 7}
+        - {x: 12, y: 17}
+    - name: E2_161
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 19}
+        - {x: -11, y: 19}
+        - {x: -17, y: 5}
+        - {x: -17, y: -26}
+        - {x: -13, y: -32}
+        - {x: 13, y: -32}
+        - {x: 19, y: -25}
+        - {x: 19, y: 8}
+        - {x: 17, y: 16}
+    - name: E2_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 16}
+        - {x: 5, y: 19}
+        - {x: -12, y: 19}
+        - {x: -16, y: 16}
+        - {x: -16, y: -22}
+        - {x: -12, y: -32}
+        - {x: 15, y: -32}
+        - {x: 21, y: -25}
+        - {x: 21, y: -7}
+        - {x: 17, y: -5}
+    - name: E2_163
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -18, y: 8}
+        - {x: -18, y: -27}
+        - {x: -13, y: -32}
+        - {x: -1, y: -32}
+        - {x: 12, y: -29}
+        - {x: 21, y: -19}
+        - {x: 21, y: 8}
+        - {x: 14, y: 19}
+    - name: E2_164
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 19}
+        - {x: -14, y: 17}
+        - {x: -14, y: -32}
+        - {x: 20, y: -32}
+        - {x: 22, y: -17}
+        - {x: 22, y: 17}
+        - {x: 14, y: 19}
+    - name: E2_165
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -16, y: 8}
+        - {x: -16, y: -18}
+        - {x: -14, y: -30}
+        - {x: -12, y: -32}
+        - {x: 14, y: -32}
+        - {x: 22, y: -20}
+        - {x: 22, y: 6}
+        - {x: 9, y: 19}
+    - name: E2_166
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 19}
+        - {x: -19, y: 6}
+        - {x: -19, y: -16}
+        - {x: -13, y: -32}
+        - {x: 14, y: -32}
+        - {x: 21, y: -21}
+        - {x: 21, y: 7}
+        - {x: 16, y: 19}
+    - name: E2_167
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 4}
+        - {x: 9, y: 19}
+        - {x: -10, y: 19}
+        - {x: -21, y: 3}
+        - {x: -21, y: -8}
+        - {x: -15, y: -25}
+        - {x: -12, y: -32}
+        - {x: -2, y: -32}
+        - {x: 12, y: -29}
+        - {x: 19, y: -10}
+        - {x: 21, y: -6}
+        - {x: 21, y: 2}
+    - name: E2_168
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -18, y: 8}
+        - {x: -18, y: -27}
+        - {x: -13, y: -32}
+        - {x: -1, y: -32}
+        - {x: 12, y: -29}
+        - {x: 21, y: -9}
+        - {x: 21, y: 4}
+        - {x: 10, y: 19}
+    - name: E2_169
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 19}
+        - {x: -16, y: 19}
+        - {x: -16, y: -32}
+        - {x: 7, y: -32}
+        - {x: 12, y: -29}
+        - {x: 21, y: -8}
+        - {x: 21, y: 4}
+    - name: E2_170
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 19}
+        - {x: -13, y: -32}
+        - {x: 8, y: -32}
+        - {x: 21, y: -22}
+        - {x: 21, y: 12}
+        - {x: 15, y: 19}
+    - name: E2_171
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 19}
+        - {x: -16, y: 19}
+        - {x: -16, y: -32}
+        - {x: 7, y: -32}
+        - {x: 12, y: -29}
+        - {x: 21, y: -8}
+        - {x: 21, y: 4}
+    - name: E2_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -32}
+        - {x: 17, y: -30}
+        - {x: 17, y: 8}
+        - {x: 13, y: 19}
+        - {x: -13, y: 19}
+        - {x: -17, y: 17}
+        - {x: -17, y: -24}
+        - {x: -16, y: -31}
+        - {x: -12, y: -32}
+        - {x: -3, y: -32}
+        - {x: -1, y: -28}
+        - {x: -1, y: -30}
+        - {x: 4, y: -32}
+    - name: E2_173
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 18}
+        - {x: -9, y: 18}
+        - {x: -13, y: 12}
+        - {x: -16, y: -13}
+        - {x: -16, y: -23}
+        - {x: -9, y: -30}
+        - {x: -2, y: -30}
+        - {x: 2, y: -26}
+        - {x: 2, y: -23}
+        - {x: 2, y: -29}
+        - {x: 5, y: -32}
+        - {x: 17, y: -32}
+        - {x: 19, y: -23}
+        - {x: 19, y: 16}
+    - name: E2_174
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 11}
+        - {x: -15, y: -32}
+        - {x: 17, y: -32}
+        - {x: 20, y: -26}
+        - {x: 20, y: -2}
+        - {x: 13, y: 11}
+    - name: E2_175
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 7}
+        - {x: -10, y: 3}
+        - {x: -15, y: -9}
+        - {x: -15, y: -31}
+        - {x: 18, y: -31}
+        - {x: 19, y: -29}
+        - {x: 19, y: 3}
+        - {x: 9, y: 7}
+    - name: E2_176
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 1}
+        - {x: -15, y: -3}
+        - {x: -15, y: -31}
+        - {x: 20, y: -31}
+        - {x: 20, y: -6}
+        - {x: 15, y: 1}
+    - name: E2_177
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 6}
+        - {x: -16, y: -32}
+        - {x: 22, y: -32}
+        - {x: 22, y: -4}
+        - {x: 19, y: 6}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
